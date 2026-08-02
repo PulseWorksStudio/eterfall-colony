@@ -1,1 +1,56 @@
-build.yml
+name: Gerar APK
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar o repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Preparar Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+
+      - name: Preparar Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Montar a pasta www
+        run: |
+          mkdir -p www
+          cp jogo.html www/index.html
+          ls -lh www
+
+      - name: Criar projeto Android
+        run: npx cap add android
+
+      - name: Sincronizar plugins
+        run: npx cap sync android
+
+      - name: Compilar o APK
+        run: |
+          cd android
+          chmod +x gradlew
+          ./gradlew assembleDebug --no-daemon
+
+      - name: Publicar o APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: eterfall-apk
+          path: android/app/build/outputs/apk/debug/app-debug.apk
+          retention-days: 30
