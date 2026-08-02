@@ -33,7 +33,14 @@ jobs:
       - name: Montar a pasta www
         run: |
           mkdir -p www
-          cp jogo.html www/index.html
+          ARQ=$(ls -S *.html 2>/dev/null | head -1)
+          if [ -z "$ARQ" ]; then
+            echo "Nenhum .html encontrado na raiz do repositorio"
+            ls -la
+            exit 1
+          fi
+          echo "Usando: $ARQ"
+          cp "$ARQ" www/index.html
           ls -lh www
 
       - name: Criar projeto Android
