@@ -1,0 +1,22 @@
+{
+  "appId": "com.eterfall.colony",
+  "appName": "Eterfall Colony",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "webContentsDebuggingEnabled": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#080714",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#080714",
+      "overlaysWebView": true
+    }
+  }
+}
