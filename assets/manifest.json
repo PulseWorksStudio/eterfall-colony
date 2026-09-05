@@ -1,0 +1,4016 @@
+{
+  "version": "0.9.1.1221",
+  "strategy": "category packs + demand-driven sprites",
+  "assets": [
+    {
+      "path": "assets/packs/misc/2b5ca72250d5021ff00e3e6e.webp",
+      "pack": "misc",
+      "bytes": 35032
+    },
+    {
+      "path": "assets/packs/misc/93054b88ed5262839074fc9b.webp",
+      "pack": "misc",
+      "bytes": 321624
+    },
+    {
+      "path": "assets/packs/misc/1aa3a3f68dee5ba035804d7e.webp",
+      "pack": "misc",
+      "bytes": 40914
+    },
+    {
+      "path": "assets/packs/misc/473da285c1a46dfab096e4d2.webp",
+      "pack": "misc",
+      "bytes": 266736
+    },
+    {
+      "path": "assets/packs/misc/6a8b4fda095adbd968dc465f.png",
+      "pack": "misc",
+      "bytes": 389774
+    },
+    {
+      "path": "assets/packs/misc/efabfc9633089b468f5715a4.webp",
+      "pack": "misc",
+      "bytes": 45648
+    },
+    {
+      "path": "assets/packs/misc/65c5c6996b381df06c7b5070.webp",
+      "pack": "misc",
+      "bytes": 26488
+    },
+    {
+      "path": "assets/packs/misc/85d71b5d74c944b8ad028cc6.webp",
+      "pack": "misc",
+      "bytes": 228714
+    },
+    {
+      "path": "assets/packs/misc/16035f3b1d768525e8a4a628.webp",
+      "pack": "misc",
+      "bytes": 288856
+    },
+    {
+      "path": "assets/packs/misc/b2093b61d29b4911b89a24b3.webp",
+      "pack": "misc",
+      "bytes": 488114
+    },
+    {
+      "path": "assets/packs/audio/7143a3148846689db99f5daf.mp3",
+      "pack": "audio",
+      "bytes": 4921835
+    },
+    {
+      "path": "assets/packs/audio/a9e1e6cac96289f48caf1479.wav",
+      "pack": "audio",
+      "bytes": 9746
+    },
+    {
+      "path": "assets/packs/audio/5f66cbdcf54e6f7aaaff9382.wav",
+      "pack": "audio",
+      "bytes": 22976
+    },
+    {
+      "path": "assets/packs/audio/8ca4fec56abdee449f8331f2.mp3",
+      "pack": "audio",
+      "bytes": 8146494
+    },
+    {
+      "path": "assets/packs/events/3c52b664d325ae211023369a.webp",
+      "pack": "events",
+      "bytes": 115592
+    },
+    {
+      "path": "assets/packs/events/32ae1949244e2250dff167f0.webp",
+      "pack": "events",
+      "bytes": 5858
+    },
+    {
+      "path": "assets/packs/events/bedc25a326f6f9a963c27e70.webp",
+      "pack": "events",
+      "bytes": 124310
+    },
+    {
+      "path": "assets/packs/events/66de7e9c5515ed2f61061067.webp",
+      "pack": "events",
+      "bytes": 46410
+    },
+    {
+      "path": "assets/packs/events/5ea5d88f25957fd7c144683f.webp",
+      "pack": "events",
+      "bytes": 51114
+    },
+    {
+      "path": "assets/packs/events/3622b620932da0c45431311a.webp",
+      "pack": "events",
+      "bytes": 5066
+    },
+    {
+      "path": "assets/packs/events/1bdb550a1e1d1e7eebbc0b89.webp",
+      "pack": "events",
+      "bytes": 138800
+    },
+    {
+      "path": "assets/packs/buildings/89a48f92ee3c595ecd87cbf5.webp",
+      "pack": "buildings",
+      "bytes": 165868
+    },
+    {
+      "path": "assets/packs/buildings/e25ab64dca954347237ce708.webp",
+      "pack": "buildings",
+      "bytes": 472030
+    },
+    {
+      "path": "assets/packs/buildings/3917b10a9d254ef447128cda.webp",
+      "pack": "buildings",
+      "bytes": 31372
+    },
+    {
+      "path": "assets/packs/buildings/615c3937da74c0ae6e586c90.webp",
+      "pack": "buildings",
+      "bytes": 35794
+    },
+    {
+      "path": "assets/packs/buildings/1e3126c3ba0287d318191353.webp",
+      "pack": "buildings",
+      "bytes": 25166
+    },
+    {
+      "path": "assets/packs/buildings/f4891460a729de05d5927e3a.webp",
+      "pack": "buildings",
+      "bytes": 3290
+    },
+    {
+      "path": "assets/packs/buildings/2a09312b532cb00a636f58e5.webp",
+      "pack": "buildings",
+      "bytes": 444054
+    },
+    {
+      "path": "assets/packs/buildings/074adf533d34787254162f49.webp",
+      "pack": "buildings",
+      "bytes": 7764
+    },
+    {
+      "path": "assets/packs/buildings/9bf1e99244ae84126250c850.webp",
+      "pack": "buildings",
+      "bytes": 46778
+    },
+    {
+      "path": "assets/packs/buildings/0a9fc52f37dbf1c1984cd5f2.webp",
+      "pack": "buildings",
+      "bytes": 181922
+    },
+    {
+      "path": "assets/packs/buildings/54b3c1d1be6a4f8723ecdf4b.png",
+      "pack": "buildings",
+      "bytes": 289233
+    },
+    {
+      "path": "assets/packs/buildings/ac319363abc9e4c78c5be24d.png",
+      "pack": "buildings",
+      "bytes": 327618
+    },
+    {
+      "path": "assets/packs/buildings/96c37a50020efcffd7f9eb8c.webp",
+      "pack": "buildings",
+      "bytes": 262568
+    },
+    {
+      "path": "assets/packs/buildings/df5cd1adaf4127c1bf837693.webp",
+      "pack": "buildings",
+      "bytes": 93820
+    },
+    {
+      "path": "assets/packs/buildings/7b02823c505f4721ce8cebcb.jpg",
+      "pack": "buildings",
+      "bytes": 21187
+    },
+    {
+      "path": "assets/packs/buildings/59de70d5b2902e5f00dd7ab3.webp",
+      "pack": "buildings",
+      "bytes": 103910
+    },
+    {
+      "path": "assets/packs/buildings/d13426d6396e36ac204acd28.webp",
+      "pack": "buildings",
+      "bytes": 35088
+    },
+    {
+      "path": "assets/packs/buildings/9fefc5aae33abd11ee50203a.webp",
+      "pack": "buildings",
+      "bytes": 39034
+    },
+    {
+      "path": "assets/packs/buildings/e8117e45be3babba2cf4c32a.jpg",
+      "pack": "buildings",
+      "bytes": 25375
+    },
+    {
+      "path": "assets/packs/buildings/590cbdbe96ceff71d0a449ea.webp",
+      "pack": "buildings",
+      "bytes": 116960
+    },
+    {
+      "path": "assets/packs/buildings/f2599044af131ff5ff8ab173.webp",
+      "pack": "buildings",
+      "bytes": 100124
+    },
+    {
+      "path": "assets/packs/buildings/f4b84c237d5e79e1374f515f.webp",
+      "pack": "buildings",
+      "bytes": 31916
+    },
+    {
+      "path": "assets/packs/buildings/b0576edc8d8ef8d6bdcb8530.webp",
+      "pack": "buildings",
+      "bytes": 28666
+    },
+    {
+      "path": "assets/packs/buildings/8161949a14b3e22bbb59b8ca.webp",
+      "pack": "buildings",
+      "bytes": 20980
+    },
+    {
+      "path": "assets/packs/buildings/bd90adc58d50556e37547ea9.webp",
+      "pack": "buildings",
+      "bytes": 34910
+    },
+    {
+      "path": "assets/packs/buildings/a0c9109d37914bed6158ca2d.webp",
+      "pack": "buildings",
+      "bytes": 46062
+    },
+    {
+      "path": "assets/packs/buildings/c5e77766493815050c647d62.webp",
+      "pack": "buildings",
+      "bytes": 41176
+    },
+    {
+      "path": "assets/packs/buildings/57c1bc896c0fbb8d83686d70.webp",
+      "pack": "buildings",
+      "bytes": 156122
+    },
+    {
+      "path": "assets/packs/buildings/4868cf38d30549c873199db5.webp",
+      "pack": "buildings",
+      "bytes": 14796
+    },
+    {
+      "path": "assets/packs/buildings/f292afc7b1a767d605d615bc.webp",
+      "pack": "buildings",
+      "bytes": 72946
+    },
+    {
+      "path": "assets/packs/buildings/d72611f635a138b637f8b386.webp",
+      "pack": "buildings",
+      "bytes": 978366
+    },
+    {
+      "path": "assets/packs/buildings/2578bf21358e37a3a602490e.webp",
+      "pack": "buildings",
+      "bytes": 3370
+    },
+    {
+      "path": "assets/packs/buildings/0457a471074c97c105f15874.webp",
+      "pack": "buildings",
+      "bytes": 348614
+    },
+    {
+      "path": "assets/packs/buildings/f0d790425a55d9160bb74060.webp",
+      "pack": "buildings",
+      "bytes": 24404
+    },
+    {
+      "path": "assets/packs/buildings/eaaa40afcea646bd8e6f537a.webp",
+      "pack": "buildings",
+      "bytes": 35250
+    },
+    {
+      "path": "assets/packs/buildings/0b66b114f20d3a9bfd062bac.webp",
+      "pack": "buildings",
+      "bytes": 1080094
+    },
+    {
+      "path": "assets/packs/buildings/e85adbac4c7562cc7f2a483b.webp",
+      "pack": "buildings",
+      "bytes": 4332
+    },
+    {
+      "path": "assets/packs/buildings/0bd7b09fa2a9999aea3484bf.webp",
+      "pack": "buildings",
+      "bytes": 70554
+    },
+    {
+      "path": "assets/packs/buildings/5126eaf9e178604e29bbfb12.jpg",
+      "pack": "buildings",
+      "bytes": 16997
+    },
+    {
+      "path": "assets/packs/buildings/3300159776a30a79db117a20.webp",
+      "pack": "buildings",
+      "bytes": 34494
+    },
+    {
+      "path": "assets/packs/buildings/aed99297acd24a0c73d980ce.webp",
+      "pack": "buildings",
+      "bytes": 29766
+    },
+    {
+      "path": "assets/packs/buildings/f68f7aa8972b9fb1ba652772.webp",
+      "pack": "buildings",
+      "bytes": 47640
+    },
+    {
+      "path": "assets/packs/buildings/1e824e452f87ea99efe6b193.webp",
+      "pack": "buildings",
+      "bytes": 161458
+    },
+    {
+      "path": "assets/packs/buildings/999224bed6160929db44cffd.webp",
+      "pack": "buildings",
+      "bytes": 6316
+    },
+    {
+      "path": "assets/packs/buildings/97a123b487710eb4d8b12d0c.webp",
+      "pack": "buildings",
+      "bytes": 14864
+    },
+    {
+      "path": "assets/packs/buildings/c189ba89d9269583a96faccb.webp",
+      "pack": "buildings",
+      "bytes": 25562
+    },
+    {
+      "path": "assets/packs/buildings/72f053a63f00c34287582263.webp",
+      "pack": "buildings",
+      "bytes": 16356
+    },
+    {
+      "path": "assets/packs/buildings/28ccf1a0ee003783207d50cf.webp",
+      "pack": "buildings",
+      "bytes": 1222738
+    },
+    {
+      "path": "assets/packs/buildings/6c3511ff551aa333ff2e8d43.webp",
+      "pack": "buildings",
+      "bytes": 77306
+    },
+    {
+      "path": "assets/packs/buildings/29e833b9a2838e1642b91dc5.webp",
+      "pack": "buildings",
+      "bytes": 75030
+    },
+    {
+      "path": "assets/packs/buildings/593eecd469329f3ba3c5df4c.webp",
+      "pack": "buildings",
+      "bytes": 6840
+    },
+    {
+      "path": "assets/packs/buildings/4fc5c9628cf29503bb342069.webp",
+      "pack": "buildings",
+      "bytes": 6690
+    },
+    {
+      "path": "assets/packs/buildings/6fc26d0efa889ba74b5a8f78.webp",
+      "pack": "buildings",
+      "bytes": 513792
+    },
+    {
+      "path": "assets/packs/buildings/7af4dfcccc9289b698b2ee1b.webp",
+      "pack": "buildings",
+      "bytes": 22362
+    },
+    {
+      "path": "assets/packs/buildings/4231eb39b739ab9c0d2c4444.webp",
+      "pack": "buildings",
+      "bytes": 48632
+    },
+    {
+      "path": "assets/packs/buildings/8bbbbc8f4629cf937af4691c.webp",
+      "pack": "buildings",
+      "bytes": 37768
+    },
+    {
+      "path": "assets/packs/buildings/184da04bef7f071d0e3b47c5.webp",
+      "pack": "buildings",
+      "bytes": 4392
+    },
+    {
+      "path": "assets/packs/buildings/f436096a4ed348769d0d885c.webp",
+      "pack": "buildings",
+      "bytes": 108950
+    },
+    {
+      "path": "assets/packs/buildings/3639ae8b512f8a7730a59a30.webp",
+      "pack": "buildings",
+      "bytes": 43364
+    },
+    {
+      "path": "assets/packs/buildings/81e0ff1a6cefd00fc67b8a19.webp",
+      "pack": "buildings",
+      "bytes": 7398
+    },
+    {
+      "path": "assets/packs/buildings/f2030c03c333d6cff125d628.webp",
+      "pack": "buildings",
+      "bytes": 142870
+    },
+    {
+      "path": "assets/packs/buildings/0b79592c89411bb8bfe74fca.webp",
+      "pack": "buildings",
+      "bytes": 48380
+    },
+    {
+      "path": "assets/packs/buildings/5a994147d82489fe51720375.webp",
+      "pack": "buildings",
+      "bytes": 33016
+    },
+    {
+      "path": "assets/packs/buildings/fbf4ec817a85b1f445b78bf8.webp",
+      "pack": "buildings",
+      "bytes": 131210
+    },
+    {
+      "path": "assets/packs/buildings/fafbcb0be8b34d889b972c63.jpg",
+      "pack": "buildings",
+      "bytes": 18682
+    },
+    {
+      "path": "assets/packs/buildings/ccf5b03584ef3202e8bce879.webp",
+      "pack": "buildings",
+      "bytes": 20492
+    },
+    {
+      "path": "assets/packs/buildings/83e34cb9396309c4754de9f2.webp",
+      "pack": "buildings",
+      "bytes": 39310
+    },
+    {
+      "path": "assets/packs/buildings/2c5272bcc3beec36c137a05b.webp",
+      "pack": "buildings",
+      "bytes": 35712
+    },
+    {
+      "path": "assets/packs/buildings/bc1a4bf9d526d7244c7a2661.webp",
+      "pack": "buildings",
+      "bytes": 44304
+    },
+    {
+      "path": "assets/packs/buildings/baa90386239b8bd87ee1aaba.webp",
+      "pack": "buildings",
+      "bytes": 10164
+    },
+    {
+      "path": "assets/packs/buildings/0c41046c07f1557213374bdc.webp",
+      "pack": "buildings",
+      "bytes": 8998
+    },
+    {
+      "path": "assets/packs/buildings/656c1c22498ea7b139da5905.webp",
+      "pack": "buildings",
+      "bytes": 42576
+    },
+    {
+      "path": "assets/packs/buildings/fedbdd5a46d0b102b05be856.webp",
+      "pack": "buildings",
+      "bytes": 35760
+    },
+    {
+      "path": "assets/packs/buildings/c1ece82421ec8bd8bf8a94d2.jpg",
+      "pack": "buildings",
+      "bytes": 16842
+    },
+    {
+      "path": "assets/packs/buildings/a808773a5f499b6db765f37d.webp",
+      "pack": "buildings",
+      "bytes": 159834
+    },
+    {
+      "path": "assets/packs/buildings/3c85aabde68e614066005157.webp",
+      "pack": "buildings",
+      "bytes": 104532
+    },
+    {
+      "path": "assets/packs/buildings/7aabc35483f97decccfb23df.webp",
+      "pack": "buildings",
+      "bytes": 4378
+    },
+    {
+      "path": "assets/packs/buildings/7fd7a574bd98b5eec561d4f7.webp",
+      "pack": "buildings",
+      "bytes": 272988
+    },
+    {
+      "path": "assets/packs/buildings/1439726dc15709ab507c5449.webp",
+      "pack": "buildings",
+      "bytes": 4088
+    },
+    {
+      "path": "assets/packs/buildings/1c76df80bb81d476876cf1f2.webp",
+      "pack": "buildings",
+      "bytes": 40560
+    },
+    {
+      "path": "assets/packs/buildings/65206a48e0e40ea28acfa5fc.webp",
+      "pack": "buildings",
+      "bytes": 4518
+    },
+    {
+      "path": "assets/packs/buildings/ac3b6b9faa7344b2d9e66a19.webp",
+      "pack": "buildings",
+      "bytes": 9330
+    },
+    {
+      "path": "assets/packs/buildings/5e317d0a9f42e67e855e317e.webp",
+      "pack": "buildings",
+      "bytes": 7576
+    },
+    {
+      "path": "assets/packs/buildings/f079e0d33d86bc4627aaaf6c.jpg",
+      "pack": "buildings",
+      "bytes": 20319
+    },
+    {
+      "path": "assets/packs/buildings/7bb98686d225a8767501802c.webp",
+      "pack": "buildings",
+      "bytes": 5982
+    },
+    {
+      "path": "assets/packs/buildings/98985a2cb43b025467f91f1a.webp",
+      "pack": "buildings",
+      "bytes": 218216
+    },
+    {
+      "path": "assets/packs/buildings/13a3b810889ac3565d977a27.webp",
+      "pack": "buildings",
+      "bytes": 15624
+    },
+    {
+      "path": "assets/packs/buildings/a147e2b925f982d1df77ae80.webp",
+      "pack": "buildings",
+      "bytes": 17180
+    },
+    {
+      "path": "assets/packs/buildings/3078f3d3e740bae84cc6136b.webp",
+      "pack": "buildings",
+      "bytes": 50850
+    },
+    {
+      "path": "assets/packs/buildings/c569adbfd51ca1069edcc0fd.webp",
+      "pack": "buildings",
+      "bytes": 30432
+    },
+    {
+      "path": "assets/packs/buildings/f3032a0a4b4dc4c314dc20ad.webp",
+      "pack": "buildings",
+      "bytes": 7214
+    },
+    {
+      "path": "assets/packs/buildings/61715874f320dc3ee6404d07.webp",
+      "pack": "buildings",
+      "bytes": 14830
+    },
+    {
+      "path": "assets/packs/buildings/86d7110cf949a900d4695482.webp",
+      "pack": "buildings",
+      "bytes": 41900
+    },
+    {
+      "path": "assets/packs/buildings/0da13257cf337a751e40c13b.webp",
+      "pack": "buildings",
+      "bytes": 24504
+    },
+    {
+      "path": "assets/packs/buildings/9c8e61d44c52b748814d1343.webp",
+      "pack": "buildings",
+      "bytes": 23600
+    },
+    {
+      "path": "assets/packs/buildings/a41ca8bef6a0db7226c5670d.webp",
+      "pack": "buildings",
+      "bytes": 32258
+    },
+    {
+      "path": "assets/packs/buildings/621de4804bb2b4ec56980304.webp",
+      "pack": "buildings",
+      "bytes": 11236
+    },
+    {
+      "path": "assets/packs/buildings/078244beaafabfe939c3b236.webp",
+      "pack": "buildings",
+      "bytes": 37646
+    },
+    {
+      "path": "assets/packs/buildings/d493ae0cea8f1ead41c94036.webp",
+      "pack": "buildings",
+      "bytes": 51200
+    },
+    {
+      "path": "assets/packs/buildings/6373cadbe56512cdb9383c9b.webp",
+      "pack": "buildings",
+      "bytes": 8958
+    },
+    {
+      "path": "assets/packs/buildings/1390a3565f75e67b321b1f4f.jpg",
+      "pack": "buildings",
+      "bytes": 19474
+    },
+    {
+      "path": "assets/packs/buildings/6c10e9c652da685f50d29a2b.webp",
+      "pack": "buildings",
+      "bytes": 7226
+    },
+    {
+      "path": "assets/packs/buildings/8b2e8f35265acf4c53a2b670.webp",
+      "pack": "buildings",
+      "bytes": 40042
+    },
+    {
+      "path": "assets/packs/buildings/8170153aa0c3a70afd43c6f0.webp",
+      "pack": "buildings",
+      "bytes": 50742
+    },
+    {
+      "path": "assets/packs/buildings/9aba20c4a59cf0cfb66b3d0d.webp",
+      "pack": "buildings",
+      "bytes": 10140
+    },
+    {
+      "path": "assets/packs/buildings/cd8d7da5cd6ebde6f3621a22.webp",
+      "pack": "buildings",
+      "bytes": 2290
+    },
+    {
+      "path": "assets/packs/buildings/ff72913378a4a222da852e7c.webp",
+      "pack": "buildings",
+      "bytes": 27324
+    },
+    {
+      "path": "assets/packs/buildings/dc2c208267a0abe74d4b07ad.webp",
+      "pack": "buildings",
+      "bytes": 47418
+    },
+    {
+      "path": "assets/packs/buildings/9cfff276a7a04b593e1af422.webp",
+      "pack": "buildings",
+      "bytes": 4184
+    },
+    {
+      "path": "assets/packs/buildings/21049132313146a77d1ba733.webp",
+      "pack": "buildings",
+      "bytes": 6682
+    },
+    {
+      "path": "assets/packs/buildings/5e676fbd22712c98376c7ba6.webp",
+      "pack": "buildings",
+      "bytes": 20668
+    },
+    {
+      "path": "assets/packs/buildings/ae2ecc3e98a0633543256dfb.webp",
+      "pack": "buildings",
+      "bytes": 17162
+    },
+    {
+      "path": "assets/packs/buildings/3ce6ebd6af742b3ae7e31ff1.webp",
+      "pack": "buildings",
+      "bytes": 36248
+    },
+    {
+      "path": "assets/packs/buildings/1e84bfda1db9cbad6fd474a2.webp",
+      "pack": "buildings",
+      "bytes": 79846
+    },
+    {
+      "path": "assets/packs/buildings/e9ec72fa731d42d2fb5d458c.webp",
+      "pack": "buildings",
+      "bytes": 24532
+    },
+    {
+      "path": "assets/packs/buildings/750b4ac2d08fa43e3002fed3.webp",
+      "pack": "buildings",
+      "bytes": 10194
+    },
+    {
+      "path": "assets/packs/buildings/ededfb2a1dc57a4a424bf292.webp",
+      "pack": "buildings",
+      "bytes": 44688
+    },
+    {
+      "path": "assets/packs/buildings/fc17b34f121d3ca217cdb456.webp",
+      "pack": "buildings",
+      "bytes": 98818
+    },
+    {
+      "path": "assets/packs/buildings/c69d8a3d4e098409e096ba29.jpg",
+      "pack": "buildings",
+      "bytes": 20363
+    },
+    {
+      "path": "assets/packs/buildings/ace4cb4017920a51884a8695.jpg",
+      "pack": "buildings",
+      "bytes": 22351
+    },
+    {
+      "path": "assets/packs/buildings/00cb5e94a3507f9ae427ed5e.webp",
+      "pack": "buildings",
+      "bytes": 7550
+    },
+    {
+      "path": "assets/packs/buildings/c18ddd1f9eb043398248a002.webp",
+      "pack": "buildings",
+      "bytes": 48248
+    },
+    {
+      "path": "assets/packs/buildings/a07ab7fb92a9adcbd41b88c8.webp",
+      "pack": "buildings",
+      "bytes": 50522
+    },
+    {
+      "path": "assets/packs/buildings/0fdf25ebb03537e6ebe82f48.webp",
+      "pack": "buildings",
+      "bytes": 940078
+    },
+    {
+      "path": "assets/packs/buildings/9d1c55754714f29f144844ea.webp",
+      "pack": "buildings",
+      "bytes": 222948
+    },
+    {
+      "path": "assets/packs/buildings/c8d168a1137f3742e1f7cd6c.webp",
+      "pack": "buildings",
+      "bytes": 252030
+    },
+    {
+      "path": "assets/packs/buildings/cab7dcde4d18a70242f2e2b9.webp",
+      "pack": "buildings",
+      "bytes": 20078
+    },
+    {
+      "path": "assets/packs/buildings/8b233dbfa714ec7418f97449.webp",
+      "pack": "buildings",
+      "bytes": 12140
+    },
+    {
+      "path": "assets/packs/buildings/9b040d3ef36cfd4e237480ad.webp",
+      "pack": "buildings",
+      "bytes": 82456
+    },
+    {
+      "path": "assets/packs/buildings/b2e6d22ff305f61656e4f937.webp",
+      "pack": "buildings",
+      "bytes": 162538
+    },
+    {
+      "path": "assets/packs/buildings/dc91608ed1f599e8e5c41fb9.webp",
+      "pack": "buildings",
+      "bytes": 19676
+    },
+    {
+      "path": "assets/packs/buildings/591c3a671e0c10cd29360070.webp",
+      "pack": "buildings",
+      "bytes": 34106
+    },
+    {
+      "path": "assets/packs/buildings/619dd54c330df23a580842fc.jpg",
+      "pack": "buildings",
+      "bytes": 16316
+    },
+    {
+      "path": "assets/packs/buildings/9bf9dbde94b5188fbd7b40c6.webp",
+      "pack": "buildings",
+      "bytes": 7686
+    },
+    {
+      "path": "assets/packs/buildings/c398fa4c4f0b5db8107d8b21.webp",
+      "pack": "buildings",
+      "bytes": 39012
+    },
+    {
+      "path": "assets/packs/buildings/489028863071bd07278f22ec.webp",
+      "pack": "buildings",
+      "bytes": 56386
+    },
+    {
+      "path": "assets/packs/buildings/59a340ff77405961c4eb66e5.webp",
+      "pack": "buildings",
+      "bytes": 196120
+    },
+    {
+      "path": "assets/packs/buildings/8021297812183dfbe320f22b.webp",
+      "pack": "buildings",
+      "bytes": 76940
+    },
+    {
+      "path": "assets/packs/buildings/e6a9226cb969b5ad5c812032.webp",
+      "pack": "buildings",
+      "bytes": 46492
+    },
+    {
+      "path": "assets/packs/buildings/745f89881070b2b68f311fe2.webp",
+      "pack": "buildings",
+      "bytes": 45032
+    },
+    {
+      "path": "assets/packs/buildings/34984d6b0be8f18c9004f9a3.webp",
+      "pack": "buildings",
+      "bytes": 46832
+    },
+    {
+      "path": "assets/packs/buildings/dabe6ec2aa37a85a6cb72b79.webp",
+      "pack": "buildings",
+      "bytes": 155196
+    },
+    {
+      "path": "assets/packs/buildings/a2b40b3c1cd39c0f6b62cce9.webp",
+      "pack": "buildings",
+      "bytes": 29662
+    },
+    {
+      "path": "assets/packs/buildings/7efccbb81ec548c679b97978.webp",
+      "pack": "buildings",
+      "bytes": 44600
+    },
+    {
+      "path": "assets/packs/buildings/d69d371b2296bf8159cac4c5.webp",
+      "pack": "buildings",
+      "bytes": 33728
+    },
+    {
+      "path": "assets/packs/buildings/a85b4260375f66f5b9fbb0b4.webp",
+      "pack": "buildings",
+      "bytes": 22776
+    },
+    {
+      "path": "assets/packs/buildings/e734cf9a811f4b339dee642e.webp",
+      "pack": "buildings",
+      "bytes": 217940
+    },
+    {
+      "path": "assets/packs/buildings/2814ea318bbf3bd984eefed4.webp",
+      "pack": "buildings",
+      "bytes": 235906
+    },
+    {
+      "path": "assets/packs/buildings/9083af3d8d6a278195694c4d.webp",
+      "pack": "buildings",
+      "bytes": 37470
+    },
+    {
+      "path": "assets/packs/buildings/8ce0adce03a868ea0ccefe25.webp",
+      "pack": "buildings",
+      "bytes": 69380
+    },
+    {
+      "path": "assets/packs/buildings/caba01d53b83b4f19190001f.webp",
+      "pack": "buildings",
+      "bytes": 45288
+    },
+    {
+      "path": "assets/packs/buildings/54857ca45e2d077b37a17030.webp",
+      "pack": "buildings",
+      "bytes": 23480
+    },
+    {
+      "path": "assets/packs/buildings/e6c7e2d437f51bca19a760ad.webp",
+      "pack": "buildings",
+      "bytes": 4128
+    },
+    {
+      "path": "assets/packs/buildings/b5aaf26c5a0f925324de9daf.webp",
+      "pack": "buildings",
+      "bytes": 216024
+    },
+    {
+      "path": "assets/packs/buildings/8c6d2d820a281faaf004a714.webp",
+      "pack": "buildings",
+      "bytes": 46538
+    },
+    {
+      "path": "assets/packs/buildings/bea92ee354a601740e54116a.webp",
+      "pack": "buildings",
+      "bytes": 47640
+    },
+    {
+      "path": "assets/packs/buildings/21de5150ac9036cb13d1bbab.webp",
+      "pack": "buildings",
+      "bytes": 53028
+    },
+    {
+      "path": "assets/packs/buildings/a584b35b3504939b988f3879.webp",
+      "pack": "buildings",
+      "bytes": 309346
+    },
+    {
+      "path": "assets/packs/buildings/19d3f25b8c4162d12da79ffb.webp",
+      "pack": "buildings",
+      "bytes": 51354
+    },
+    {
+      "path": "assets/packs/buildings/0b2211f499a6131dd2cd7c57.webp",
+      "pack": "buildings",
+      "bytes": 46126
+    },
+    {
+      "path": "assets/packs/buildings/7c127419c8925cbdc12907e3.webp",
+      "pack": "buildings",
+      "bytes": 15446
+    },
+    {
+      "path": "assets/packs/buildings/a3f13e25f7efd0e9e41d44b0.webp",
+      "pack": "buildings",
+      "bytes": 34184
+    },
+    {
+      "path": "assets/packs/items/a857d2bd4acd0010f272771a.webp",
+      "pack": "items",
+      "bytes": 34344
+    },
+    {
+      "path": "assets/packs/items/56405dbe55a324c76e4f1abc.webp",
+      "pack": "items",
+      "bytes": 43038
+    },
+    {
+      "path": "assets/packs/items/3a858badd5d2150a78188902.webp",
+      "pack": "items",
+      "bytes": 25184
+    },
+    {
+      "path": "assets/packs/items/c8de551c2bb7286f1f71e6e8.webp",
+      "pack": "items",
+      "bytes": 51068
+    },
+    {
+      "path": "assets/packs/items/090653cee5200c121680d13f.png",
+      "pack": "items",
+      "bytes": 130687
+    },
+    {
+      "path": "assets/packs/items/09a3ca1e2449d553effad0e9.webp",
+      "pack": "items",
+      "bytes": 19682
+    },
+    {
+      "path": "assets/packs/items/84fec11033b87eeafaaba389.webp",
+      "pack": "items",
+      "bytes": 50248
+    },
+    {
+      "path": "assets/packs/items/86c5ac6c3db14e550475fa09.webp",
+      "pack": "items",
+      "bytes": 208406
+    },
+    {
+      "path": "assets/packs/items/6ccb1fc36beeb5a5e294c836.webp",
+      "pack": "items",
+      "bytes": 29324
+    },
+    {
+      "path": "assets/packs/items/6a6b872c25873ecbce20d697.webp",
+      "pack": "items",
+      "bytes": 49098
+    },
+    {
+      "path": "assets/packs/items/0e98497ca27687f07c7ffd5a.webp",
+      "pack": "items",
+      "bytes": 37560
+    },
+    {
+      "path": "assets/packs/items/505fef1d79711bc300cb5f32.webp",
+      "pack": "items",
+      "bytes": 33662
+    },
+    {
+      "path": "assets/packs/items/ff8cf0c78857453bc05ea37b.webp",
+      "pack": "items",
+      "bytes": 3458
+    },
+    {
+      "path": "assets/packs/items/95b331e9568e6ce9d1add7e2.webp",
+      "pack": "items",
+      "bytes": 49400
+    },
+    {
+      "path": "assets/packs/items/88f890b01eb3507a031e902b.webp",
+      "pack": "items",
+      "bytes": 83642
+    },
+    {
+      "path": "assets/packs/items/55486a9e376c35695d419202.webp",
+      "pack": "items",
+      "bytes": 51066
+    },
+    {
+      "path": "assets/packs/items/ebb49ab0f143cbcb2d39805d.webp",
+      "pack": "items",
+      "bytes": 45188
+    },
+    {
+      "path": "assets/packs/items/3b3aaa24d7732cabe40b37dd.webp",
+      "pack": "items",
+      "bytes": 237954
+    },
+    {
+      "path": "assets/packs/items/89631477b8c5bea42c2b8d6f.webp",
+      "pack": "items",
+      "bytes": 97958
+    },
+    {
+      "path": "assets/packs/items/d5cb7d0d03db3bffc7b5f1a4.webp",
+      "pack": "items",
+      "bytes": 58746
+    },
+    {
+      "path": "assets/packs/items/dc1658a30a7568c5adc96f33.webp",
+      "pack": "items",
+      "bytes": 20152
+    },
+    {
+      "path": "assets/packs/items/bea3378e325b3175c3fdf6c1.webp",
+      "pack": "items",
+      "bytes": 4098
+    },
+    {
+      "path": "assets/packs/items/8420ce230dfb79da220f357f.webp",
+      "pack": "items",
+      "bytes": 59144
+    },
+    {
+      "path": "assets/packs/items/e012443c1c20063e239f7241.webp",
+      "pack": "items",
+      "bytes": 936884
+    },
+    {
+      "path": "assets/packs/items/52920791179593552561102a.webp",
+      "pack": "items",
+      "bytes": 25460
+    },
+    {
+      "path": "assets/packs/items/2b0441f04e3e0be32cb87dc7.webp",
+      "pack": "items",
+      "bytes": 17616
+    },
+    {
+      "path": "assets/packs/items/6023d404f81e3a27ef9169e3.webp",
+      "pack": "items",
+      "bytes": 38208
+    },
+    {
+      "path": "assets/packs/items/da1489fe8dcffc7dd73e02ca.webp",
+      "pack": "items",
+      "bytes": 70350
+    },
+    {
+      "path": "assets/packs/items/05f8ca263aa4f2782a96538a.webp",
+      "pack": "items",
+      "bytes": 66832
+    },
+    {
+      "path": "assets/packs/items/bfe424b072bc8c88bf16c490.webp",
+      "pack": "items",
+      "bytes": 45604
+    },
+    {
+      "path": "assets/packs/items/25dddd01947b05e9744ea7f4.webp",
+      "pack": "items",
+      "bytes": 47458
+    },
+    {
+      "path": "assets/packs/items/47db3a2e1aabc90f596024e2.webp",
+      "pack": "items",
+      "bytes": 4468
+    },
+    {
+      "path": "assets/packs/items/5bc77188c51c4bcdb41d3141.webp",
+      "pack": "items",
+      "bytes": 45976
+    },
+    {
+      "path": "assets/packs/items/1bf50c79144f0c429ec8cb78.webp",
+      "pack": "items",
+      "bytes": 49250
+    },
+    {
+      "path": "assets/packs/items/58c48a903d2b0c22ac204267.webp",
+      "pack": "items",
+      "bytes": 22598
+    },
+    {
+      "path": "assets/packs/items/7d9db3cdf0ddc055fbd136f1.webp",
+      "pack": "items",
+      "bytes": 48590
+    },
+    {
+      "path": "assets/packs/items/c3ed7a6da4634b246400905c.webp",
+      "pack": "items",
+      "bytes": 47120
+    },
+    {
+      "path": "assets/packs/items/b747276851129018dbb956c7.webp",
+      "pack": "items",
+      "bytes": 40752
+    },
+    {
+      "path": "assets/packs/items/c8322783ec8bc56aede89865.webp",
+      "pack": "items",
+      "bytes": 50476
+    },
+    {
+      "path": "assets/packs/items/53762e145606f3fdf39ced39.webp",
+      "pack": "items",
+      "bytes": 87674
+    },
+    {
+      "path": "assets/packs/items/3d9e19999dbf811b9a6efcb7.webp",
+      "pack": "items",
+      "bytes": 46820
+    },
+    {
+      "path": "assets/packs/items/9bfab6e83a5911025102442c.webp",
+      "pack": "items",
+      "bytes": 207458
+    },
+    {
+      "path": "assets/packs/items/536c18429505d29aec8d6d2a.webp",
+      "pack": "items",
+      "bytes": 31492
+    },
+    {
+      "path": "assets/packs/items/559dc51f250e573c90953eca.png",
+      "pack": "items",
+      "bytes": 124358
+    },
+    {
+      "path": "assets/packs/items/d74cbf48752b61bbf9a9994e.webp",
+      "pack": "items",
+      "bytes": 105016
+    },
+    {
+      "path": "assets/packs/items/dc8ece7f49edc9e60e764500.webp",
+      "pack": "items",
+      "bytes": 1061968
+    },
+    {
+      "path": "assets/packs/items/c86f759b51e2c9b4ad12c0c2.webp",
+      "pack": "items",
+      "bytes": 11132
+    },
+    {
+      "path": "assets/packs/items/36438efc8d9dbe6bc23b77e8.webp",
+      "pack": "items",
+      "bytes": 67396
+    },
+    {
+      "path": "assets/packs/items/942f1efe0ae82592362d6111.webp",
+      "pack": "items",
+      "bytes": 50666
+    },
+    {
+      "path": "assets/packs/items/a81d3e1abfe41bc20236d718.webp",
+      "pack": "items",
+      "bytes": 32224
+    },
+    {
+      "path": "assets/packs/items/85ddf2fffec7de11b9b0bb85.webp",
+      "pack": "items",
+      "bytes": 9852
+    },
+    {
+      "path": "assets/packs/items/4378810db6e32c3c278f21bb.webp",
+      "pack": "items",
+      "bytes": 24508
+    },
+    {
+      "path": "assets/packs/items/87c0e06f8108568bbbee0b46.webp",
+      "pack": "items",
+      "bytes": 10632
+    },
+    {
+      "path": "assets/packs/items/e80413da206a54473937aaa1.webp",
+      "pack": "items",
+      "bytes": 121450
+    },
+    {
+      "path": "assets/packs/items/b1789f0175d7ce190add96c3.webp",
+      "pack": "items",
+      "bytes": 18714
+    },
+    {
+      "path": "assets/packs/items/3d8aaffba8f19e4be7cb7437.webp",
+      "pack": "items",
+      "bytes": 28138
+    },
+    {
+      "path": "assets/packs/items/5be5af33eac11a47dd4f20ab.webp",
+      "pack": "items",
+      "bytes": 24082
+    },
+    {
+      "path": "assets/packs/items/9c0e2dc2ba4288d17cfad395.webp",
+      "pack": "items",
+      "bytes": 14532
+    },
+    {
+      "path": "assets/packs/items/8049e439ee39634ef94ec0f3.webp",
+      "pack": "items",
+      "bytes": 50816
+    },
+    {
+      "path": "assets/packs/items/355279a077304a1a56624525.webp",
+      "pack": "items",
+      "bytes": 572688
+    },
+    {
+      "path": "assets/packs/items/ca617417e10e6d30a1c01805.webp",
+      "pack": "items",
+      "bytes": 22324
+    },
+    {
+      "path": "assets/packs/items/15013e9e1ac00cdab14a73d4.webp",
+      "pack": "items",
+      "bytes": 11986
+    },
+    {
+      "path": "assets/packs/items/b6b9b3026910372fe1d837fc.webp",
+      "pack": "items",
+      "bytes": 43732
+    },
+    {
+      "path": "assets/packs/items/7e840d11b507929c9c961d06.webp",
+      "pack": "items",
+      "bytes": 72994
+    },
+    {
+      "path": "assets/packs/items/4bcfedaa0406d93b42d4c46a.webp",
+      "pack": "items",
+      "bytes": 42852
+    },
+    {
+      "path": "assets/packs/items/47c667177a20f4bbc720b83f.webp",
+      "pack": "items",
+      "bytes": 35486
+    },
+    {
+      "path": "assets/packs/items/8f8adf9d31f75972fc5b85aa.webp",
+      "pack": "items",
+      "bytes": 116502
+    },
+    {
+      "path": "assets/packs/items/eb6c055cd202bb74752dfe2c.webp",
+      "pack": "items",
+      "bytes": 34454
+    },
+    {
+      "path": "assets/packs/items/163936332ac4b1b7c92ac8b9.webp",
+      "pack": "items",
+      "bytes": 70678
+    },
+    {
+      "path": "assets/packs/items/ebd0347a644e21ffdc02b79e.webp",
+      "pack": "items",
+      "bytes": 36834
+    },
+    {
+      "path": "assets/packs/items/5fc8303a3f8e8712d515f281.webp",
+      "pack": "items",
+      "bytes": 39150
+    },
+    {
+      "path": "assets/packs/items/bb0b7043602b463ca77f7908.webp",
+      "pack": "items",
+      "bytes": 871934
+    },
+    {
+      "path": "assets/packs/items/24d88651ebeb3bbe8fdd9bc2.webp",
+      "pack": "items",
+      "bytes": 248
+    },
+    {
+      "path": "assets/packs/items/a1651748092e5c59d9e37350.webp",
+      "pack": "items",
+      "bytes": 42306
+    },
+    {
+      "path": "assets/packs/items/a4537346660c853d0a535642.webp",
+      "pack": "items",
+      "bytes": 50114
+    },
+    {
+      "path": "assets/packs/items/58f1c67cfdd5da51c46429d5.webp",
+      "pack": "items",
+      "bytes": 36596
+    },
+    {
+      "path": "assets/packs/items/357b60823446b4b2ba5bbf60.webp",
+      "pack": "items",
+      "bytes": 50910
+    },
+    {
+      "path": "assets/packs/items/7e786bf63d8132c18bb89528.webp",
+      "pack": "items",
+      "bytes": 24760
+    },
+    {
+      "path": "assets/packs/items/fae16efab359c147802bee03.webp",
+      "pack": "items",
+      "bytes": 26908
+    },
+    {
+      "path": "assets/packs/items/43806554e5cf74d5457f0424.webp",
+      "pack": "items",
+      "bytes": 25618
+    },
+    {
+      "path": "assets/packs/items/c0b3d21261205b72430249ae.webp",
+      "pack": "items",
+      "bytes": 21784
+    },
+    {
+      "path": "assets/packs/items/29225947a152fb33d1154ade.webp",
+      "pack": "items",
+      "bytes": 20328
+    },
+    {
+      "path": "assets/packs/items/d37b7cfe60ea56af8969c0d0.webp",
+      "pack": "items",
+      "bytes": 11664
+    },
+    {
+      "path": "assets/packs/items/c15a818581c2228e40fdc906.webp",
+      "pack": "items",
+      "bytes": 27492
+    },
+    {
+      "path": "assets/packs/items/b3308bbae204112476d4bd4c.webp",
+      "pack": "items",
+      "bytes": 64662
+    },
+    {
+      "path": "assets/packs/items/778cf2392b672ca1c4cb8b5e.webp",
+      "pack": "items",
+      "bytes": 153550
+    },
+    {
+      "path": "assets/packs/items/d572bfcb2492d5e15767e061.webp",
+      "pack": "items",
+      "bytes": 24348
+    },
+    {
+      "path": "assets/packs/items/0130dd0083b47a0fd087a5cf.webp",
+      "pack": "items",
+      "bytes": 47622
+    },
+    {
+      "path": "assets/packs/items/dbac4fe877e96ed5430fdf0a.webp",
+      "pack": "items",
+      "bytes": 50340
+    },
+    {
+      "path": "assets/packs/items/bb1b915e8bd0bb6de62003af.webp",
+      "pack": "items",
+      "bytes": 85216
+    },
+    {
+      "path": "assets/packs/items/a4de959e32363a423661dac9.webp",
+      "pack": "items",
+      "bytes": 48056
+    },
+    {
+      "path": "assets/packs/items/584b9745e7a2ce05fc565dfc.webp",
+      "pack": "items",
+      "bytes": 174
+    },
+    {
+      "path": "assets/packs/items/02c5aa63142e4fba798d0bcc.webp",
+      "pack": "items",
+      "bytes": 47356
+    },
+    {
+      "path": "assets/packs/items/87b8d87b94e39eb0611f336d.webp",
+      "pack": "items",
+      "bytes": 44116
+    },
+    {
+      "path": "assets/packs/items/ad560aba0ad6053c969fff6c.webp",
+      "pack": "items",
+      "bytes": 76458
+    },
+    {
+      "path": "assets/packs/items/f939ec18163c0788808c7155.webp",
+      "pack": "items",
+      "bytes": 20788
+    },
+    {
+      "path": "assets/packs/items/012aef0c206310d5c535601f.webp",
+      "pack": "items",
+      "bytes": 12936
+    },
+    {
+      "path": "assets/packs/items/523809b1782235141f497090.webp",
+      "pack": "items",
+      "bytes": 1069774
+    },
+    {
+      "path": "assets/packs/animals/46b2089e93d886662512316d.webp",
+      "pack": "animals",
+      "bytes": 21506
+    },
+    {
+      "path": "assets/packs/animals/fcd9a274452d3626782e3b85.webp",
+      "pack": "animals",
+      "bytes": 14098
+    },
+    {
+      "path": "assets/packs/animals/e96719b0cd0d76ec1636102a.webp",
+      "pack": "animals",
+      "bytes": 16776
+    },
+    {
+      "path": "assets/packs/animals/46ab932795f1ae60c347f637.webp",
+      "pack": "animals",
+      "bytes": 39802
+    },
+    {
+      "path": "assets/packs/animals/230b69667a858447266d3802.webp",
+      "pack": "animals",
+      "bytes": 25190
+    },
+    {
+      "path": "assets/packs/animals/413c2cd23c2af5eab211fffb.webp",
+      "pack": "animals",
+      "bytes": 49616
+    },
+    {
+      "path": "assets/packs/animals/30ea5b6345815e7f0acd9a21.webp",
+      "pack": "animals",
+      "bytes": 18880
+    },
+    {
+      "path": "assets/packs/animals/94225a6d7538d93f0a0a0f91.webp",
+      "pack": "animals",
+      "bytes": 43706
+    },
+    {
+      "path": "assets/packs/animals/606b64d4911dd5c4b6d05b56.webp",
+      "pack": "animals",
+      "bytes": 18768
+    },
+    {
+      "path": "assets/packs/animals/1b6617adbfd8ba5e23416de0.webp",
+      "pack": "animals",
+      "bytes": 38320
+    },
+    {
+      "path": "assets/packs/animals/401adaff86e70874b3ce77dd.webp",
+      "pack": "animals",
+      "bytes": 17634
+    },
+    {
+      "path": "assets/packs/animals/698c3b61c2efee708d1a8a15.png",
+      "pack": "animals",
+      "bytes": 850232
+    },
+    {
+      "path": "assets/packs/animals/8665628bfa0ef1b06471f7a8.png",
+      "pack": "animals",
+      "bytes": 559214
+    },
+    {
+      "path": "assets/packs/animals/140a14bd9739378abe543ac0.webp",
+      "pack": "animals",
+      "bytes": 16368
+    },
+    {
+      "path": "assets/packs/animals/f83d8cf5c01b5589ee4501d2.png",
+      "pack": "animals",
+      "bytes": 732491
+    },
+    {
+      "path": "assets/packs/animals/d31574588bc1e59eb2d548da.webp",
+      "pack": "animals",
+      "bytes": 18346
+    },
+    {
+      "path": "assets/packs/animals/8507d33434452ff76cea149e.webp",
+      "pack": "animals",
+      "bytes": 42066
+    },
+    {
+      "path": "assets/packs/animals/d790be966c7f80ba5e28ac24.png",
+      "pack": "animals",
+      "bytes": 424563
+    },
+    {
+      "path": "assets/packs/ui/54b3c1d1be6a4f8723ecdf4b.jpg",
+      "pack": "ui",
+      "bytes": 289233
+    },
+    {
+      "path": "assets/packs/ui/b7b3f55d19cb05aa24c35001.webp",
+      "pack": "ui",
+      "bytes": 374772
+    },
+    {
+      "path": "assets/packs/ui/64398fe22764eaa686888e55.webp",
+      "pack": "ui",
+      "bytes": 6926
+    },
+    {
+      "path": "assets/packs/ui/5dd866ab77ef7f85f7a692e8.webp",
+      "pack": "ui",
+      "bytes": 19396
+    },
+    {
+      "path": "assets/packs/ui/b3630fb38756856d84cdbde9.webp",
+      "pack": "ui",
+      "bytes": 300206
+    },
+    {
+      "path": "assets/packs/ui/8b56cd986c7827f1206ab8e9.webp",
+      "pack": "ui",
+      "bytes": 2734
+    },
+    {
+      "path": "assets/packs/ui/b735d8876586d5e4004960b8.webp",
+      "pack": "ui",
+      "bytes": 49002
+    },
+    {
+      "path": "assets/packs/ui/07ea1ab8b614b4d292c44f3d.webp",
+      "pack": "ui",
+      "bytes": 45830
+    },
+    {
+      "path": "assets/packs/ui/1df28a283b2f936ad6503d50.webp",
+      "pack": "ui",
+      "bytes": 24826
+    },
+    {
+      "path": "assets/packs/ui/9922440b1223b83c871a79bf.webp",
+      "pack": "ui",
+      "bytes": 33512
+    },
+    {
+      "path": "assets/packs/ui/9fabdb4512829f86643e8f5e.webp",
+      "pack": "ui",
+      "bytes": 206382
+    },
+    {
+      "path": "assets/packs/ui/30ee0314b6f0b4ee9609f5f9.svg",
+      "pack": "ui",
+      "bytes": 328
+    },
+    {
+      "path": "assets/packs/ui/60468672ef69eed058b15dbb.webp",
+      "pack": "ui",
+      "bytes": 4648
+    },
+    {
+      "path": "assets/packs/ui/b8b118e70c9356e3538b499b.webp",
+      "pack": "ui",
+      "bytes": 29016
+    },
+    {
+      "path": "assets/packs/ui/d1247816a407e356a6323a68.webp",
+      "pack": "ui",
+      "bytes": 166944
+    },
+    {
+      "path": "assets/packs/ui/15c807fadddda15a1669256c.webp",
+      "pack": "ui",
+      "bytes": 3742
+    },
+    {
+      "path": "assets/packs/ui/709e80c88487a2411e1ee4df.webp",
+      "pack": "ui",
+      "bytes": 3
+    },
+    {
+      "path": "assets/packs/ui/3831875ad78c88e3b724f112.webp",
+      "pack": "ui",
+      "bytes": 339136
+    },
+    {
+      "path": "assets/packs/ui/74f78badf002c979e872f0c0.webp",
+      "pack": "ui",
+      "bytes": 68882
+    },
+    {
+      "path": "assets/packs/ui/2e5c650f8a29a1f90a235e3a.webp",
+      "pack": "ui",
+      "bytes": 4572
+    },
+    {
+      "path": "assets/packs/ui/3641cc6f53813d011203e605.webp",
+      "pack": "ui",
+      "bytes": 222138
+    },
+    {
+      "path": "assets/packs/ui/0e68d5d63f4a3c9651167e9e.webp",
+      "pack": "ui",
+      "bytes": 407134
+    },
+    {
+      "path": "assets/packs/ui/b24b1d73f6d108e3e0a74015.webp",
+      "pack": "ui",
+      "bytes": 11928
+    },
+    {
+      "path": "assets/packs/ui/f568c9e4eb8646988af3e7f2.webp",
+      "pack": "ui",
+      "bytes": 47174
+    },
+    {
+      "path": "assets/packs/ui/a7e2ed53140559b73a5c2942.webp",
+      "pack": "ui",
+      "bytes": 276416
+    },
+    {
+      "path": "assets/packs/ui/4d049083b66137c3e0bde5df.webp",
+      "pack": "ui",
+      "bytes": 3914
+    },
+    {
+      "path": "assets/packs/ui/704f99e181b1722eaf4960f0.webp",
+      "pack": "ui",
+      "bytes": 76164
+    },
+    {
+      "path": "assets/packs/ui/4b3a9c51b90f6207aa2f5ede.webp",
+      "pack": "ui",
+      "bytes": 135748
+    },
+    {
+      "path": "assets/packs/core/55a5e2f2ffb8a31caa3cfa2c.webp",
+      "pack": "core",
+      "bytes": 30306
+    },
+    {
+      "path": "assets/packs/core/d19278a7792b7914d32cc622.webp",
+      "pack": "core",
+      "bytes": 57940
+    },
+    {
+      "path": "assets/packs/core/869a64f76026c5574f8063a0.webp",
+      "pack": "core",
+      "bytes": 173122
+    },
+    {
+      "path": "assets/packs/core/8e899485f6e47be1a6f6c7dd.webp",
+      "pack": "core",
+      "bytes": 41986
+    },
+    {
+      "path": "assets/packs/core/75137409a46dce779202978a.webp",
+      "pack": "core",
+      "bytes": 29804
+    },
+    {
+      "path": "assets/packs/core/071643233108569287df17a6.webp",
+      "pack": "core",
+      "bytes": 33434
+    },
+    {
+      "path": "assets/packs/core/22da77d37b0f2bdf15895c08.webp",
+      "pack": "core",
+      "bytes": 48688
+    },
+    {
+      "path": "assets/packs/core/f7d35f383b054d9d62461f3f.webp",
+      "pack": "core",
+      "bytes": 48524
+    },
+    {
+      "path": "assets/packs/core/6d4c80381cd4feeef451ab46.webp",
+      "pack": "core",
+      "bytes": 50760
+    },
+    {
+      "path": "assets/packs/core/8b0d445546a82f557d088b19.webp",
+      "pack": "core",
+      "bytes": 48452
+    },
+    {
+      "path": "assets/packs/core/20c33ba13b383014c84c8a05.webp",
+      "pack": "core",
+      "bytes": 23556
+    },
+    {
+      "path": "assets/packs/core/13f48867f16413c55bfd34dd.webp",
+      "pack": "core",
+      "bytes": 48292
+    },
+    {
+      "path": "assets/packs/core/c2a6e41a7c8a7a923f9f5d30.webp",
+      "pack": "core",
+      "bytes": 50660
+    },
+    {
+      "path": "assets/packs/core/cdf7e53785b51c2310c1dfb0.webp",
+      "pack": "core",
+      "bytes": 49218
+    },
+    {
+      "path": "assets/packs/core/2e09663629c3d11e2690889b.webp",
+      "pack": "core",
+      "bytes": 34014
+    },
+    {
+      "path": "assets/packs/core/aeec080036c42430add0ecc4.webp",
+      "pack": "core",
+      "bytes": 42722
+    },
+    {
+      "path": "assets/packs/core/9a14025d5f477723f20c0480.webp",
+      "pack": "core",
+      "bytes": 48630
+    },
+    {
+      "path": "assets/packs/core/d86a28cd0df0b6a2a2062276.webp",
+      "pack": "core",
+      "bytes": 48100
+    },
+    {
+      "path": "assets/packs/core/274faad5298fd0253372eb7f.webp",
+      "pack": "core",
+      "bytes": 39516
+    },
+    {
+      "path": "assets/packs/weapons/48e056f99d322c903ec2e916.webp",
+      "pack": "weapons",
+      "bytes": 41250
+    },
+    {
+      "path": "assets/packs/weapons/ddd55c312dcc31d6e19b02a4.webp",
+      "pack": "weapons",
+      "bytes": 4176
+    },
+    {
+      "path": "assets/packs/weapons/77c49ad4cd6816d3b6d2971c.webp",
+      "pack": "weapons",
+      "bytes": 34130
+    },
+    {
+      "path": "assets/packs/weapons/83d0dd8655504ff5f346e789.webp",
+      "pack": "weapons",
+      "bytes": 27522
+    },
+    {
+      "path": "assets/packs/weapons/5dd35992abb6b0887c7a936c.webp",
+      "pack": "weapons",
+      "bytes": 51860
+    },
+    {
+      "path": "assets/packs/weapons/a44f39c5a9f856f334463129.webp",
+      "pack": "weapons",
+      "bytes": 34564
+    },
+    {
+      "path": "assets/packs/weapons/1491f0ada2bc4f6dd7312703.webp",
+      "pack": "weapons",
+      "bytes": 35474
+    },
+    {
+      "path": "assets/packs/weapons/25366f74a2a3acb144c60c24.webp",
+      "pack": "weapons",
+      "bytes": 39894
+    },
+    {
+      "path": "assets/packs/weapons/b0743ffbdf984c2941b65afa.webp",
+      "pack": "weapons",
+      "bytes": 4738
+    },
+    {
+      "path": "assets/packs/weapons/124ea1dfe86c52009aed347b.webp",
+      "pack": "weapons",
+      "bytes": 9740
+    },
+    {
+      "path": "assets/packs/weapons/b7f52d2917e60278a57879f3.webp",
+      "pack": "weapons",
+      "bytes": 4314
+    },
+    {
+      "path": "assets/packs/weapons/28c711df207843c38034dcdf.webp",
+      "pack": "weapons",
+      "bytes": 4856
+    },
+    {
+      "path": "assets/packs/weapons/05adbcc482f1300311a5a205.webp",
+      "pack": "weapons",
+      "bytes": 42896
+    },
+    {
+      "path": "assets/packs/weapons/341b833bc7f239ac60277e57.webp",
+      "pack": "weapons",
+      "bytes": 61880
+    },
+    {
+      "path": "assets/packs/weapons/ec1178ae31429a1e593c07b2.webp",
+      "pack": "weapons",
+      "bytes": 43230
+    },
+    {
+      "path": "assets/packs/weapons/32f6b61def0c85ac09db2cb6.webp",
+      "pack": "weapons",
+      "bytes": 56238
+    },
+    {
+      "path": "assets/packs/weapons/1009ceded2523bc53d7b4fb3.webp",
+      "pack": "weapons",
+      "bytes": 52754
+    },
+    {
+      "path": "assets/packs/weapons/d214d698a923e3091d8c51c9.webp",
+      "pack": "weapons",
+      "bytes": 5538
+    },
+    {
+      "path": "assets/packs/weapons/d674cce20a74c66ce48fb5f7.webp",
+      "pack": "weapons",
+      "bytes": 50790
+    },
+    {
+      "path": "assets/packs/weapons/ad242e10996266cdd46db70e.webp",
+      "pack": "weapons",
+      "bytes": 46656
+    },
+    {
+      "path": "assets/packs/weapons/890519cca690d42a0f07f4a4.webp",
+      "pack": "weapons",
+      "bytes": 45186
+    },
+    {
+      "path": "assets/packs/weapons/80935495795a983e39541dce.webp",
+      "pack": "weapons",
+      "bytes": 42040
+    },
+    {
+      "path": "assets/packs/weapons/ae28d0d466e965355bbaf5e5.svg",
+      "pack": "weapons",
+      "bytes": 361
+    },
+    {
+      "path": "assets/packs/weapons/fc317896f8409177f775f511.webp",
+      "pack": "weapons",
+      "bytes": 51194
+    },
+    {
+      "path": "assets/packs/weapons/7f0a6879d5631984416ab4db.webp",
+      "pack": "weapons",
+      "bytes": 50776
+    },
+    {
+      "path": "assets/packs/weapons/450a137d0a5fd07a6b640caf.webp",
+      "pack": "weapons",
+      "bytes": 7082
+    },
+    {
+      "path": "assets/packs/weapons/e09456c28e5f7e47705f82f8.webp",
+      "pack": "weapons",
+      "bytes": 28522
+    },
+    {
+      "path": "assets/packs/weapons/2faaf58aa99a357e861f5bf1.webp",
+      "pack": "weapons",
+      "bytes": 116322
+    },
+    {
+      "path": "assets/packs/weapons/4fa4eed05ecccfa64a2265c3.webp",
+      "pack": "weapons",
+      "bytes": 30680
+    },
+    {
+      "path": "assets/packs/weapons/191066577ffeae0cd77d5c71.webp",
+      "pack": "weapons",
+      "bytes": 7034
+    },
+    {
+      "path": "assets/packs/weapons/fdf90f0b723326bfefafe21b.webp",
+      "pack": "weapons",
+      "bytes": 39258
+    },
+    {
+      "path": "assets/packs/weapons/ff2b8b02716523cda680155a.webp",
+      "pack": "weapons",
+      "bytes": 44478
+    },
+    {
+      "path": "assets/packs/weapons/f4bf7edb70fd8fc049f02c72.webp",
+      "pack": "weapons",
+      "bytes": 57602
+    },
+    {
+      "path": "assets/packs/weapons/52d7f02939214554677f8efc.webp",
+      "pack": "weapons",
+      "bytes": 20266
+    },
+    {
+      "path": "assets/packs/weapons/1d304798381fcdd2f27d707e.webp",
+      "pack": "weapons",
+      "bytes": 4312
+    },
+    {
+      "path": "assets/packs/weapons/6725254909a8cc500f195960.webp",
+      "pack": "weapons",
+      "bytes": 6844
+    },
+    {
+      "path": "assets/packs/weapons/a13d920ebcc06726ebd08db0.webp",
+      "pack": "weapons",
+      "bytes": 39624
+    },
+    {
+      "path": "assets/packs/weapons/8d292de5874caec9bb4a01ff.webp",
+      "pack": "weapons",
+      "bytes": 37798
+    },
+    {
+      "path": "assets/packs/weapons/971df91518fdf4596ef755da.webp",
+      "pack": "weapons",
+      "bytes": 18308
+    },
+    {
+      "path": "assets/packs/weapons/d9116f250bf00a96600ff2d7.webp",
+      "pack": "weapons",
+      "bytes": 35578
+    },
+    {
+      "path": "assets/packs/weapons/84199808067010f0bc260eb1.webp",
+      "pack": "weapons",
+      "bytes": 43028
+    },
+    {
+      "path": "assets/packs/weapons/355a8ecbf3566ca086cfb695.webp",
+      "pack": "weapons",
+      "bytes": 45332
+    },
+    {
+      "path": "assets/packs/weapons/76c4f90d0c183dcc2d288269.webp",
+      "pack": "weapons",
+      "bytes": 47044
+    },
+    {
+      "path": "assets/packs/weapons/e3510883e661f8ad56e3b7e9.svg",
+      "pack": "weapons",
+      "bytes": 379
+    },
+    {
+      "path": "assets/packs/weapons/0cdfb32bdfc5c9817a760362.webp",
+      "pack": "weapons",
+      "bytes": 35546
+    },
+    {
+      "path": "assets/packs/weapons/90b7f87dfc8164886c908a31.webp",
+      "pack": "weapons",
+      "bytes": 10940
+    },
+    {
+      "path": "assets/packs/weapons/767590803dcf86c5446f89aa.webp",
+      "pack": "weapons",
+      "bytes": 15182
+    },
+    {
+      "path": "assets/packs/weapons/830cf700195bba982bbec42e.webp",
+      "pack": "weapons",
+      "bytes": 9420
+    },
+    {
+      "path": "assets/packs/weapons/2bca0e2f0f9aaa55d41cf95e.webp",
+      "pack": "weapons",
+      "bytes": 33056
+    },
+    {
+      "path": "assets/packs/weapons/30f9de177512541c1824e00b.webp",
+      "pack": "weapons",
+      "bytes": 13722
+    },
+    {
+      "path": "assets/packs/weapons/309a391b9633f74e88512b30.webp",
+      "pack": "weapons",
+      "bytes": 127650
+    },
+    {
+      "path": "assets/packs/weapons/833107fbf3de4756e18ed2bd.webp",
+      "pack": "weapons",
+      "bytes": 47012
+    },
+    {
+      "path": "assets/packs/weapons/d60691f5a695985095510b42.webp",
+      "pack": "weapons",
+      "bytes": 45728
+    },
+    {
+      "path": "assets/packs/weapons/98dc4e617c16b1dc93f814a8.webp",
+      "pack": "weapons",
+      "bytes": 12370
+    },
+    {
+      "path": "assets/packs/weapons/ebbcdb96a2557a66c7bd683e.webp",
+      "pack": "weapons",
+      "bytes": 31604
+    },
+    {
+      "path": "assets/packs/weapons/a123f66515a39f517028963a.webp",
+      "pack": "weapons",
+      "bytes": 53138
+    },
+    {
+      "path": "assets/packs/weapons/7bda5aace723a7913563831b.webp",
+      "pack": "weapons",
+      "bytes": 4298
+    },
+    {
+      "path": "assets/packs/weapons/6974ee1c389dbdabd7b3fd87.webp",
+      "pack": "weapons",
+      "bytes": 4474
+    },
+    {
+      "path": "assets/packs/weapons/0e340ca00ea909b33417841b.webp",
+      "pack": "weapons",
+      "bytes": 5998
+    },
+    {
+      "path": "assets/packs/weapons/9e9588be91611745543835c6.webp",
+      "pack": "weapons",
+      "bytes": 4546
+    },
+    {
+      "path": "assets/packs/weapons/2696e6c0960af6bc4a4e2ee1.webp",
+      "pack": "weapons",
+      "bytes": 19750
+    },
+    {
+      "path": "assets/packs/weapons/e11a6273734308e556dded21.svg",
+      "pack": "weapons",
+      "bytes": 366
+    },
+    {
+      "path": "assets/packs/weapons/3847eefad08a6071c692e610.webp",
+      "pack": "weapons",
+      "bytes": 4446
+    },
+    {
+      "path": "assets/packs/colonists/f8b6e1a45bc618defa51fb5d.webp",
+      "pack": "colonists",
+      "bytes": 20322
+    },
+    {
+      "path": "assets/packs/colonists/238bfc1f323697dac9120286.webp",
+      "pack": "colonists",
+      "bytes": 13606
+    },
+    {
+      "path": "assets/packs/colonists/9dcf032825d27a5a510d7383.webp",
+      "pack": "colonists",
+      "bytes": 26194
+    },
+    {
+      "path": "assets/packs/colonists/f0210513c9f6bfcc5433c6d3.webp",
+      "pack": "colonists",
+      "bytes": 15992
+    },
+    {
+      "path": "assets/packs/colonists/b6751084129d37a6d5b4b7ad.webp",
+      "pack": "colonists",
+      "bytes": 12098
+    },
+    {
+      "path": "assets/packs/colonists/390ff146cb948278b12b8d46.webp",
+      "pack": "colonists",
+      "bytes": 1496
+    },
+    {
+      "path": "assets/packs/colonists/bb558972d4b5af9a1640e295.webp",
+      "pack": "colonists",
+      "bytes": 31534
+    },
+    {
+      "path": "assets/packs/colonists/ee7f541f60c5bb92a3ee458f.webp",
+      "pack": "colonists",
+      "bytes": 23240
+    },
+    {
+      "path": "assets/packs/colonists/faacf8983eaa9a31c5b0480e.webp",
+      "pack": "colonists",
+      "bytes": 23168
+    },
+    {
+      "path": "assets/packs/colonists/e933a7950b706b93c4bf7aa0.webp",
+      "pack": "colonists",
+      "bytes": 24338
+    },
+    {
+      "path": "assets/packs/colonists/c665dbb81bb1bd25ea996edf.webp",
+      "pack": "colonists",
+      "bytes": 24960
+    },
+    {
+      "path": "assets/packs/colonists/46e16be99381f90a70116808.webp",
+      "pack": "colonists",
+      "bytes": 9888
+    },
+    {
+      "path": "assets/packs/colonists/44b41b39010df0866d5ddf7c.webp",
+      "pack": "colonists",
+      "bytes": 16764
+    },
+    {
+      "path": "assets/packs/colonists/6f536fffa5e527e89b6e38db.webp",
+      "pack": "colonists",
+      "bytes": 27336
+    },
+    {
+      "path": "assets/packs/colonists/cbd44849656602b199256d2e.webp",
+      "pack": "colonists",
+      "bytes": 19592
+    },
+    {
+      "path": "assets/packs/colonists/f0b5a5063b253684e5911daa.webp",
+      "pack": "colonists",
+      "bytes": 24640
+    },
+    {
+      "path": "assets/packs/colonists/ade9da4327d98c6a23dbca07.webp",
+      "pack": "colonists",
+      "bytes": 14502
+    },
+    {
+      "path": "assets/packs/colonists/00a1efcf1d84a1fa095420d4.webp",
+      "pack": "colonists",
+      "bytes": 24116
+    },
+    {
+      "path": "assets/packs/colonists/cf6a5f7797b3b51e6ab39b25.webp",
+      "pack": "colonists",
+      "bytes": 2378
+    },
+    {
+      "path": "assets/packs/colonists/c5a05a076d17076bef0c869d.webp",
+      "pack": "colonists",
+      "bytes": 23126
+    },
+    {
+      "path": "assets/packs/colonists/5487dc9fb5a3bf312b0af14b.webp",
+      "pack": "colonists",
+      "bytes": 24730
+    },
+    {
+      "path": "assets/packs/colonists/072519d10e03e7a11f6aee47.webp",
+      "pack": "colonists",
+      "bytes": 23842
+    },
+    {
+      "path": "assets/packs/colonists/0f3fd318dcf0fc13f09ff404.webp",
+      "pack": "colonists",
+      "bytes": 19024
+    },
+    {
+      "path": "assets/packs/colonists/8db4cd35fd17a47dfca33fac.webp",
+      "pack": "colonists",
+      "bytes": 9046
+    },
+    {
+      "path": "assets/packs/colonists/210b1800342fa9e02f8da482.webp",
+      "pack": "colonists",
+      "bytes": 22532
+    },
+    {
+      "path": "assets/packs/colonists/ca8911494dfe2e8fc2f1ab86.webp",
+      "pack": "colonists",
+      "bytes": 23910
+    },
+    {
+      "path": "assets/packs/colonists/e03fd2855b93e325ad4799d5.webp",
+      "pack": "colonists",
+      "bytes": 14578
+    },
+    {
+      "path": "assets/packs/colonists/47ca43572b40c4b329497e0c.webp",
+      "pack": "colonists",
+      "bytes": 21130
+    },
+    {
+      "path": "assets/packs/colonists/30f1f82add1656bab3ff6fd7.webp",
+      "pack": "colonists",
+      "bytes": 24492
+    },
+    {
+      "path": "assets/packs/colonists/1986845aaa6f6ea4271a93d2.webp",
+      "pack": "colonists",
+      "bytes": 10386
+    },
+    {
+      "path": "assets/packs/colonists/17a14cbcc6fed374cdce95bc.webp",
+      "pack": "colonists",
+      "bytes": 20500
+    },
+    {
+      "path": "assets/packs/colonists/6f17663d824d1621ab9ffe71.webp",
+      "pack": "colonists",
+      "bytes": 20270
+    },
+    {
+      "path": "assets/packs/colonists/18dc349ede40c8864a6bc782.webp",
+      "pack": "colonists",
+      "bytes": 23646
+    },
+    {
+      "path": "assets/packs/colonists/c7352d2edb39028b845201a8.webp",
+      "pack": "colonists",
+      "bytes": 22362
+    },
+    {
+      "path": "assets/packs/colonists/0818bce75213f7d070145a56.webp",
+      "pack": "colonists",
+      "bytes": 23376
+    },
+    {
+      "path": "assets/packs/colonists/36cdf40a79f91db95e6ddc99.webp",
+      "pack": "colonists",
+      "bytes": 25770
+    },
+    {
+      "path": "assets/packs/colonists/e3f177b4d4ea975932ab6efc.webp",
+      "pack": "colonists",
+      "bytes": 14520
+    },
+    {
+      "path": "assets/packs/colonists/0d05a9b1c3abc3267f9c1b4f.webp",
+      "pack": "colonists",
+      "bytes": 15330
+    },
+    {
+      "path": "assets/packs/colonists/3ffedbb66ad2f9fd91e3f33b.webp",
+      "pack": "colonists",
+      "bytes": 21324
+    },
+    {
+      "path": "assets/packs/colonists/5050afc71f65df29a6a76f05.webp",
+      "pack": "colonists",
+      "bytes": 22256
+    },
+    {
+      "path": "assets/packs/colonists/186d322623441ba50cf0543f.webp",
+      "pack": "colonists",
+      "bytes": 24312
+    },
+    {
+      "path": "assets/packs/colonists/875c78e318d9af003c186f2e.webp",
+      "pack": "colonists",
+      "bytes": 20960
+    },
+    {
+      "path": "assets/packs/colonists/9639484694c92ed513f60a18.webp",
+      "pack": "colonists",
+      "bytes": 20514
+    },
+    {
+      "path": "assets/packs/colonists/2e9f36ec9e3200f1c9b7a9bc.webp",
+      "pack": "colonists",
+      "bytes": 22990
+    },
+    {
+      "path": "assets/packs/colonists/c5bfe1395dafdf35f940f7ff.webp",
+      "pack": "colonists",
+      "bytes": 12346
+    },
+    {
+      "path": "assets/packs/colonists/d89d4be6be1a5c64f62f8d4b.webp",
+      "pack": "colonists",
+      "bytes": 26018
+    },
+    {
+      "path": "assets/packs/colonists/f210156b76e7b249e803c592.webp",
+      "pack": "colonists",
+      "bytes": 24112
+    },
+    {
+      "path": "assets/packs/colonists/fdd89db5f3589297cb63b0b0.webp",
+      "pack": "colonists",
+      "bytes": 9166
+    },
+    {
+      "path": "assets/packs/colonists/9e1014fbb1355c9ace060623.webp",
+      "pack": "colonists",
+      "bytes": 26322
+    },
+    {
+      "path": "assets/packs/colonists/9d72a8a5b604ecaaee6cc6ee.webp",
+      "pack": "colonists",
+      "bytes": 25442
+    },
+    {
+      "path": "assets/packs/colonists/caaf98e2dd3c896b8e9f363d.webp",
+      "pack": "colonists",
+      "bytes": 21934
+    },
+    {
+      "path": "assets/packs/colonists/3121d20dec0fb15e114199f2.webp",
+      "pack": "colonists",
+      "bytes": 25184
+    },
+    {
+      "path": "assets/packs/colonists/21ae87442a2323fea28198c8.webp",
+      "pack": "colonists",
+      "bytes": 21212
+    },
+    {
+      "path": "assets/packs/colonists/dd9894739c2ebaf723b1bca9.webp",
+      "pack": "colonists",
+      "bytes": 14180
+    },
+    {
+      "path": "assets/packs/colonists/854d54664b17ffa62b541d74.webp",
+      "pack": "colonists",
+      "bytes": 10650
+    },
+    {
+      "path": "assets/packs/colonists/fb6c8659ba9889c07fd87174.webp",
+      "pack": "colonists",
+      "bytes": 24246
+    },
+    {
+      "path": "assets/packs/colonists/b19cda8380add506fc86d9c0.webp",
+      "pack": "colonists",
+      "bytes": 12042
+    },
+    {
+      "path": "assets/packs/colonists/e4a28949a0acf9c00d7d2fbd.webp",
+      "pack": "colonists",
+      "bytes": 23528
+    },
+    {
+      "path": "assets/packs/colonists/eb9829cb6cdd2625b688b98c.webp",
+      "pack": "colonists",
+      "bytes": 30424
+    },
+    {
+      "path": "assets/packs/colonists/03cec387e62ea65b3a8d56d5.webp",
+      "pack": "colonists",
+      "bytes": 22514
+    },
+    {
+      "path": "assets/packs/colonists/4da0bfac412c795e60dd62a6.webp",
+      "pack": "colonists",
+      "bytes": 9514
+    },
+    {
+      "path": "assets/packs/colonists/c920409fcfc30dee1d3346ad.webp",
+      "pack": "colonists",
+      "bytes": 20054
+    },
+    {
+      "path": "assets/packs/colonists/ebc15e4e52bb7203b49c9a9e.webp",
+      "pack": "colonists",
+      "bytes": 13194
+    },
+    {
+      "path": "assets/packs/colonists/4c2c6eb3eee89d749e67bad2.webp",
+      "pack": "colonists",
+      "bytes": 22170
+    },
+    {
+      "path": "assets/packs/colonists/ca57facd0a59d7f4ce0f3a46.webp",
+      "pack": "colonists",
+      "bytes": 17646
+    },
+    {
+      "path": "assets/packs/colonists/a9dd509bf045584ae1a52066.webp",
+      "pack": "colonists",
+      "bytes": 24430
+    },
+    {
+      "path": "assets/packs/colonists/b526ae5586d4d0fa193f5e7c.webp",
+      "pack": "colonists",
+      "bytes": 25566
+    },
+    {
+      "path": "assets/packs/colonists/18eb4d47dc31cd4ab9917c45.webp",
+      "pack": "colonists",
+      "bytes": 27614
+    },
+    {
+      "path": "assets/packs/colonists/2a68d17483cb07036f9e8ec7.webp",
+      "pack": "colonists",
+      "bytes": 26194
+    },
+    {
+      "path": "assets/packs/colonists/03ec09964500b885c5a1c0bb.webp",
+      "pack": "colonists",
+      "bytes": 7672
+    },
+    {
+      "path": "assets/packs/colonists/b0f1626aebfdb729f4d73823.webp",
+      "pack": "colonists",
+      "bytes": 24174
+    },
+    {
+      "path": "assets/packs/colonists/978101e0f742c66c56007b1d.webp",
+      "pack": "colonists",
+      "bytes": 21626
+    },
+    {
+      "path": "assets/packs/colonists/a0e130ec755bc4650d992606.webp",
+      "pack": "colonists",
+      "bytes": 25308
+    },
+    {
+      "path": "assets/packs/colonists/e2a85a857950d269b22e2898.webp",
+      "pack": "colonists",
+      "bytes": 11644
+    },
+    {
+      "path": "assets/packs/colonists/3b6bc6920444f774d30c0a1f.webp",
+      "pack": "colonists",
+      "bytes": 26562
+    },
+    {
+      "path": "assets/packs/colonists/bca73cd222482dcf1694fd2e.webp",
+      "pack": "colonists",
+      "bytes": 10830
+    },
+    {
+      "path": "assets/packs/colonists/38503dff37e4b8adb44bef01.webp",
+      "pack": "colonists",
+      "bytes": 8898
+    },
+    {
+      "path": "assets/packs/colonists/5e834ff77a35a4c7f972001c.webp",
+      "pack": "colonists",
+      "bytes": 29540
+    },
+    {
+      "path": "assets/packs/colonists/e7ff7d4f43452008f34b4f9d.webp",
+      "pack": "colonists",
+      "bytes": 14306
+    },
+    {
+      "path": "assets/packs/colonists/4cb1e7c437e1c4fa742f26aa.webp",
+      "pack": "colonists",
+      "bytes": 8808
+    },
+    {
+      "path": "assets/packs/colonists/a41d7dffedab0dff24185e2b.webp",
+      "pack": "colonists",
+      "bytes": 25200
+    },
+    {
+      "path": "assets/packs/colonists/c5e89715f304e5c7ee9aca54.webp",
+      "pack": "colonists",
+      "bytes": 23450
+    },
+    {
+      "path": "assets/packs/colonists/d36ac0514158610dee12c23c.webp",
+      "pack": "colonists",
+      "bytes": 31294
+    },
+    {
+      "path": "assets/packs/colonists/0b3322b2ecb19773bbd647e7.webp",
+      "pack": "colonists",
+      "bytes": 25916
+    },
+    {
+      "path": "assets/packs/colonists/111ad3c55656f8dd9e6713fc.webp",
+      "pack": "colonists",
+      "bytes": 7756
+    },
+    {
+      "path": "assets/packs/colonists/4f8e3614c0b4abaf7e39dc8c.webp",
+      "pack": "colonists",
+      "bytes": 10070
+    },
+    {
+      "path": "assets/packs/colonists/727d0bb8e9798e0d1d5debfe.webp",
+      "pack": "colonists",
+      "bytes": 10084
+    },
+    {
+      "path": "assets/packs/colonists/02658be594d8b3f72a55ad5f.webp",
+      "pack": "colonists",
+      "bytes": 9980
+    },
+    {
+      "path": "assets/packs/colonists/49be39b54841e8a28f479a05.webp",
+      "pack": "colonists",
+      "bytes": 9456
+    },
+    {
+      "path": "assets/packs/colonists/84fa269e4ef2996f992e7f5d.webp",
+      "pack": "colonists",
+      "bytes": 15432
+    },
+    {
+      "path": "assets/packs/colonists/8d5be7dc01464a9772f346d4.webp",
+      "pack": "colonists",
+      "bytes": 27710
+    },
+    {
+      "path": "assets/packs/colonists/8251b62020690fe4fea42408.webp",
+      "pack": "colonists",
+      "bytes": 20408
+    },
+    {
+      "path": "assets/packs/colonists/bde2195b58f026a88387e3a5.webp",
+      "pack": "colonists",
+      "bytes": 8870
+    },
+    {
+      "path": "assets/packs/colonists/a700e554f9b5510dc0318d21.webp",
+      "pack": "colonists",
+      "bytes": 11402
+    },
+    {
+      "path": "assets/packs/colonists/c851461d35af628637e359c5.webp",
+      "pack": "colonists",
+      "bytes": 19342
+    },
+    {
+      "path": "assets/packs/colonists/4b30a7dd2707bb9c1a209e29.webp",
+      "pack": "colonists",
+      "bytes": 11002
+    },
+    {
+      "path": "assets/packs/colonists/c1d8d7971f24fa6fe72e4655.webp",
+      "pack": "colonists",
+      "bytes": 10198
+    },
+    {
+      "path": "assets/packs/colonists/985a4d23efa2da1f4f265048.webp",
+      "pack": "colonists",
+      "bytes": 22382
+    },
+    {
+      "path": "assets/packs/colonists/6795b9bbca44812894b79b13.webp",
+      "pack": "colonists",
+      "bytes": 25460
+    },
+    {
+      "path": "assets/packs/colonists/1af2e1d41a65eb362cf75818.webp",
+      "pack": "colonists",
+      "bytes": 9050
+    },
+    {
+      "path": "assets/packs/colonists/90adba970b61b5e1cd350051.webp",
+      "pack": "colonists",
+      "bytes": 25812
+    },
+    {
+      "path": "assets/packs/colonists/4cb6b04fd2982f68da88b9ec.webp",
+      "pack": "colonists",
+      "bytes": 20996
+    },
+    {
+      "path": "assets/packs/colonists/0e96a78173332fa7dc5f9bee.webp",
+      "pack": "colonists",
+      "bytes": 30120
+    },
+    {
+      "path": "assets/packs/colonists/ad9270418a5bee6521e16c04.webp",
+      "pack": "colonists",
+      "bytes": 26892
+    },
+    {
+      "path": "assets/packs/colonists/53ac690baaa7ac5d26fda47d.webp",
+      "pack": "colonists",
+      "bytes": 25852
+    },
+    {
+      "path": "assets/packs/colonists/ed9d46629938c87414868dcd.webp",
+      "pack": "colonists",
+      "bytes": 17124
+    },
+    {
+      "path": "assets/packs/colonists/8fac2aa890b73536aee1d7a4.webp",
+      "pack": "colonists",
+      "bytes": 28884
+    },
+    {
+      "path": "assets/packs/colonists/7e75249779f30d31391ef0f0.webp",
+      "pack": "colonists",
+      "bytes": 10908
+    },
+    {
+      "path": "assets/packs/colonists/55a312d7b850ee9c2d7fd9f4.webp",
+      "pack": "colonists",
+      "bytes": 23824
+    },
+    {
+      "path": "assets/packs/colonists/553c17e33ed8811b90a9fe15.webp",
+      "pack": "colonists",
+      "bytes": 27460
+    },
+    {
+      "path": "assets/packs/colonists/ec35abaf9e281000c15b1505.webp",
+      "pack": "colonists",
+      "bytes": 11282
+    },
+    {
+      "path": "assets/packs/colonists/d20620783206a14f804c6395.webp",
+      "pack": "colonists",
+      "bytes": 9842
+    },
+    {
+      "path": "assets/packs/colonists/beb5e61e9df600e99b2c3d9e.webp",
+      "pack": "colonists",
+      "bytes": 27916
+    },
+    {
+      "path": "assets/packs/colonists/9a7563cad2995292c7fadb34.webp",
+      "pack": "colonists",
+      "bytes": 21942
+    },
+    {
+      "path": "assets/packs/colonists/ff7bfc55119df3e0c2b458e5.webp",
+      "pack": "colonists",
+      "bytes": 17020
+    },
+    {
+      "path": "assets/packs/colonists/8f729898fed8c5e9522c91b8.webp",
+      "pack": "colonists",
+      "bytes": 23342
+    },
+    {
+      "path": "assets/packs/colonists/a7b6eb5568390f7dd1a5ca33.webp",
+      "pack": "colonists",
+      "bytes": 26870
+    },
+    {
+      "path": "assets/packs/colonists/efc10b9cc5637c51749af8c0.webp",
+      "pack": "colonists",
+      "bytes": 24352
+    },
+    {
+      "path": "assets/packs/colonists/826fc0a9bc16c6d782892f70.webp",
+      "pack": "colonists",
+      "bytes": 27772
+    },
+    {
+      "path": "assets/packs/colonists/0b44030add5d4c307bc57e4c.webp",
+      "pack": "colonists",
+      "bytes": 22656
+    },
+    {
+      "path": "assets/packs/colonists/be0ec919cf9a31e2a4e420b3.webp",
+      "pack": "colonists",
+      "bytes": 24132
+    },
+    {
+      "path": "assets/packs/colonists/71e5de84d5e519f344b846a1.webp",
+      "pack": "colonists",
+      "bytes": 25512
+    },
+    {
+      "path": "assets/packs/colonists/8a2316fce12da547e42cd537.webp",
+      "pack": "colonists",
+      "bytes": 23866
+    },
+    {
+      "path": "assets/packs/colonists/b0df95d920d6e1f11f2a8adb.webp",
+      "pack": "colonists",
+      "bytes": 34334
+    },
+    {
+      "path": "assets/packs/colonists/e84cc2df3324ba2163290bb6.webp",
+      "pack": "colonists",
+      "bytes": 16122
+    },
+    {
+      "path": "assets/packs/colonists/fce562557ffe5e5ba07354bc.webp",
+      "pack": "colonists",
+      "bytes": 17406
+    },
+    {
+      "path": "assets/packs/colonists/97626ce78f76fc14003672bd.webp",
+      "pack": "colonists",
+      "bytes": 24226
+    },
+    {
+      "path": "assets/packs/colonists/28defded2326311564511c17.webp",
+      "pack": "colonists",
+      "bytes": 21912
+    },
+    {
+      "path": "assets/packs/colonists/03e68c4c2408f211fdd50142.webp",
+      "pack": "colonists",
+      "bytes": 28280
+    },
+    {
+      "path": "assets/packs/colonists/b32aa808d4e1bcf8bad54880.webp",
+      "pack": "colonists",
+      "bytes": 27202
+    },
+    {
+      "path": "assets/packs/colonists/0494b79d50ae0a4cabffc122.webp",
+      "pack": "colonists",
+      "bytes": 27044
+    },
+    {
+      "path": "assets/packs/colonists/0fe37be12677ecacd8badfdb.webp",
+      "pack": "colonists",
+      "bytes": 24600
+    },
+    {
+      "path": "assets/packs/colonists/789d3feb0bb933efe5495c52.webp",
+      "pack": "colonists",
+      "bytes": 21386
+    },
+    {
+      "path": "assets/packs/colonists/9bfc951cd45290a77dab0b6c.webp",
+      "pack": "colonists",
+      "bytes": 24300
+    },
+    {
+      "path": "assets/packs/colonists/3a6da13c09c6c38e92d3d31b.webp",
+      "pack": "colonists",
+      "bytes": 11102
+    },
+    {
+      "path": "assets/packs/colonists/cf4bbc754b943eeba5a0ce8c.webp",
+      "pack": "colonists",
+      "bytes": 20578
+    },
+    {
+      "path": "assets/packs/colonists/91215ceded39328448bb537c.webp",
+      "pack": "colonists",
+      "bytes": 31362
+    },
+    {
+      "path": "assets/packs/colonists/36c0fe626b5534356fcc0c81.webp",
+      "pack": "colonists",
+      "bytes": 15060
+    },
+    {
+      "path": "assets/packs/colonists/4e9cd58a05a3fcfb370d8618.webp",
+      "pack": "colonists",
+      "bytes": 28038
+    },
+    {
+      "path": "assets/packs/colonists/51c9e4fcaeae614295eb1d2a.webp",
+      "pack": "colonists",
+      "bytes": 21996
+    },
+    {
+      "path": "assets/packs/colonists/10108313eb84116d0ac4d371.webp",
+      "pack": "colonists",
+      "bytes": 21214
+    },
+    {
+      "path": "assets/packs/colonists/785f7e48e92bc86a8901bcc8.webp",
+      "pack": "colonists",
+      "bytes": 29100
+    },
+    {
+      "path": "assets/packs/colonists/8933990ce031875315890e7d.webp",
+      "pack": "colonists",
+      "bytes": 21430
+    },
+    {
+      "path": "assets/packs/colonists/a674ed04919b69046920da10.webp",
+      "pack": "colonists",
+      "bytes": 11130
+    },
+    {
+      "path": "assets/packs/colonists/06f88b6294e784dc433c9d94.webp",
+      "pack": "colonists",
+      "bytes": 20220
+    },
+    {
+      "path": "assets/packs/colonists/9f2b97d1b8d8a284c85cdc6d.webp",
+      "pack": "colonists",
+      "bytes": 10070
+    },
+    {
+      "path": "assets/packs/colonists/dc4865d15eea93f722c96460.webp",
+      "pack": "colonists",
+      "bytes": 25706
+    },
+    {
+      "path": "assets/packs/colonists/1838fd77065ee96fb33bc500.webp",
+      "pack": "colonists",
+      "bytes": 23888
+    },
+    {
+      "path": "assets/packs/colonists/c5a89b53ea419867c5c024b2.webp",
+      "pack": "colonists",
+      "bytes": 8652
+    },
+    {
+      "path": "assets/packs/colonists/6e22c10e393154212a1cb5d9.webp",
+      "pack": "colonists",
+      "bytes": 24036
+    },
+    {
+      "path": "assets/packs/colonists/65c53cf5541ec6c1ce29e330.webp",
+      "pack": "colonists",
+      "bytes": 14152
+    },
+    {
+      "path": "assets/packs/colonists/a7b0fa6dfc4e797c724126c8.webp",
+      "pack": "colonists",
+      "bytes": 10204
+    },
+    {
+      "path": "assets/packs/colonists/d77da2831c3f60ada5247a49.webp",
+      "pack": "colonists",
+      "bytes": 9738
+    },
+    {
+      "path": "assets/packs/colonists/8495b813404e464a6e420f3d.webp",
+      "pack": "colonists",
+      "bytes": 28588
+    },
+    {
+      "path": "assets/packs/colonists/bc11cc6b7d31bca725915e99.webp",
+      "pack": "colonists",
+      "bytes": 15036
+    },
+    {
+      "path": "assets/packs/colonists/546123609845faa1f0bac5b5.webp",
+      "pack": "colonists",
+      "bytes": 9954
+    },
+    {
+      "path": "assets/packs/colonists/e11af8c2855f0c5e80d3b244.webp",
+      "pack": "colonists",
+      "bytes": 30958
+    },
+    {
+      "path": "assets/packs/colonists/b02581d3eacfef04f63a8357.webp",
+      "pack": "colonists",
+      "bytes": 30086
+    },
+    {
+      "path": "assets/packs/colonists/dfa2ca49fcba596ddff72ec1.webp",
+      "pack": "colonists",
+      "bytes": 17200
+    },
+    {
+      "path": "assets/packs/colonists/f79c5a9e3877fc756b3da4bd.webp",
+      "pack": "colonists",
+      "bytes": 14988
+    },
+    {
+      "path": "assets/packs/colonists/725e5f7e4b3923fa83a0e1c9.webp",
+      "pack": "colonists",
+      "bytes": 11808
+    },
+    {
+      "path": "assets/packs/colonists/0bfab4f20b9e6f7e4784485e.webp",
+      "pack": "colonists",
+      "bytes": 11696
+    },
+    {
+      "path": "assets/packs/colonists/bd610552b761eee0cb70081a.webp",
+      "pack": "colonists",
+      "bytes": 7880
+    },
+    {
+      "path": "assets/packs/colonists/0b9b425ab4a5d42a34d78588.webp",
+      "pack": "colonists",
+      "bytes": 26932
+    },
+    {
+      "path": "assets/packs/colonists/e8c4c33c4079b449e97488d1.webp",
+      "pack": "colonists",
+      "bytes": 15956
+    },
+    {
+      "path": "assets/packs/colonists/cea93267ce715a56040d8cc9.webp",
+      "pack": "colonists",
+      "bytes": 24536
+    },
+    {
+      "path": "assets/packs/colonists/0142baa52b14ade26afa80bb.webp",
+      "pack": "colonists",
+      "bytes": 23614
+    },
+    {
+      "path": "assets/packs/colonists/6d697ab919c7118ea7a94792.webp",
+      "pack": "colonists",
+      "bytes": 25282
+    },
+    {
+      "path": "assets/packs/colonists/42f733e281f7ef8c2efbed83.webp",
+      "pack": "colonists",
+      "bytes": 16658
+    },
+    {
+      "path": "assets/packs/colonists/eff44f7f9595af3fcd3b7250.webp",
+      "pack": "colonists",
+      "bytes": 21904
+    },
+    {
+      "path": "assets/packs/colonists/4dd87a57a70c50c52fc04d30.webp",
+      "pack": "colonists",
+      "bytes": 27918
+    },
+    {
+      "path": "assets/packs/colonists/efe8dbe8cf42703b0ef41ee8.webp",
+      "pack": "colonists",
+      "bytes": 13192
+    },
+    {
+      "path": "assets/packs/colonists/fb587b0b6bda8aae10a4d90d.webp",
+      "pack": "colonists",
+      "bytes": 10862
+    },
+    {
+      "path": "assets/packs/colonists/40389a9af142e5e3d625ea8b.webp",
+      "pack": "colonists",
+      "bytes": 9322
+    },
+    {
+      "path": "assets/packs/colonists/4aec6503d967101e99aea52d.webp",
+      "pack": "colonists",
+      "bytes": 27008
+    },
+    {
+      "path": "assets/packs/colonists/c3cf39e5aac3a54d96f58068.webp",
+      "pack": "colonists",
+      "bytes": 21218
+    },
+    {
+      "path": "assets/packs/colonists/0c9d625f3b8997b8bd9a8f7a.webp",
+      "pack": "colonists",
+      "bytes": 8924
+    },
+    {
+      "path": "assets/packs/colonists/8eb9b0600134ffbc82c64e03.webp",
+      "pack": "colonists",
+      "bytes": 8366
+    },
+    {
+      "path": "assets/packs/colonists/4b008d22db7b0a21daca27a2.webp",
+      "pack": "colonists",
+      "bytes": 28710
+    },
+    {
+      "path": "assets/packs/colonists/79f8b06ce977e9dcc2a3b248.webp",
+      "pack": "colonists",
+      "bytes": 26292
+    },
+    {
+      "path": "assets/packs/colonists/9a4a90845cb31cd7032db01d.webp",
+      "pack": "colonists",
+      "bytes": 20690
+    },
+    {
+      "path": "assets/packs/colonists/f6aed6b7d9df22a8407c9c6d.webp",
+      "pack": "colonists",
+      "bytes": 32414
+    },
+    {
+      "path": "assets/packs/colonists/875afa53908cf63b03de7a39.webp",
+      "pack": "colonists",
+      "bytes": 11712
+    },
+    {
+      "path": "assets/packs/colonists/2c074e3ec8d4f929ee78b4fa.webp",
+      "pack": "colonists",
+      "bytes": 17378
+    },
+    {
+      "path": "assets/packs/colonists/b3783b46ded5e21a499a7c82.webp",
+      "pack": "colonists",
+      "bytes": 10602
+    },
+    {
+      "path": "assets/packs/colonists/07e74b2444c6a57a77dcfc03.webp",
+      "pack": "colonists",
+      "bytes": 23242
+    },
+    {
+      "path": "assets/packs/colonists/5cd3392bdf192472e0665a7b.webp",
+      "pack": "colonists",
+      "bytes": 9154
+    },
+    {
+      "path": "assets/packs/colonists/192ff767b5bc2e9ea984390d.webp",
+      "pack": "colonists",
+      "bytes": 30616
+    },
+    {
+      "path": "assets/packs/colonists/8bf351e20cbc07a1261b992e.webp",
+      "pack": "colonists",
+      "bytes": 23742
+    },
+    {
+      "path": "assets/packs/colonists/3bbf4744abfccea99ba8e891.webp",
+      "pack": "colonists",
+      "bytes": 15808
+    },
+    {
+      "path": "assets/packs/colonists/906b8d4733b8847af360e093.webp",
+      "pack": "colonists",
+      "bytes": 10596
+    },
+    {
+      "path": "assets/packs/colonists/b9574387e49fc1fe15ddf9be.webp",
+      "pack": "colonists",
+      "bytes": 23612
+    },
+    {
+      "path": "assets/packs/colonists/4330103d3c6eb69f4a262508.webp",
+      "pack": "colonists",
+      "bytes": 12660
+    },
+    {
+      "path": "assets/packs/colonists/ebe180989e83e248e4fe4036.webp",
+      "pack": "colonists",
+      "bytes": 33756
+    },
+    {
+      "path": "assets/packs/colonists/ec90952c5bfdd6f7e5e88e2d.webp",
+      "pack": "colonists",
+      "bytes": 17420
+    },
+    {
+      "path": "assets/packs/colonists/e4e58f6e370e3ec12b79a9b3.webp",
+      "pack": "colonists",
+      "bytes": 26128
+    },
+    {
+      "path": "assets/packs/colonists/294ebe90bcc62face2044a30.webp",
+      "pack": "colonists",
+      "bytes": 23372
+    },
+    {
+      "path": "assets/packs/colonists/096f91a85b2e9eb944fb3a53.webp",
+      "pack": "colonists",
+      "bytes": 23264
+    },
+    {
+      "path": "assets/packs/colonists/72937720b84654f704f97988.webp",
+      "pack": "colonists",
+      "bytes": 16146
+    },
+    {
+      "path": "assets/packs/colonists/ea421908aeb032405aa3ca65.webp",
+      "pack": "colonists",
+      "bytes": 32704
+    },
+    {
+      "path": "assets/packs/colonists/dde5f075214fd8da0666059b.webp",
+      "pack": "colonists",
+      "bytes": 24832
+    },
+    {
+      "path": "assets/packs/colonists/c407553b1f3822d8c2e3916c.webp",
+      "pack": "colonists",
+      "bytes": 9716
+    },
+    {
+      "path": "assets/packs/colonists/30f2af5f7897a41d640eb4b8.webp",
+      "pack": "colonists",
+      "bytes": 26312
+    },
+    {
+      "path": "assets/packs/colonists/f8b139bc7dd6d40f25c04393.webp",
+      "pack": "colonists",
+      "bytes": 22202
+    },
+    {
+      "path": "assets/packs/colonists/0bd77a9df9a9e03848283fb4.webp",
+      "pack": "colonists",
+      "bytes": 23604
+    },
+    {
+      "path": "assets/packs/colonists/c37940c59261fb677ffe2420.webp",
+      "pack": "colonists",
+      "bytes": 20140
+    },
+    {
+      "path": "assets/packs/colonists/baa0092815e90bddcf55089d.webp",
+      "pack": "colonists",
+      "bytes": 30542
+    },
+    {
+      "path": "assets/packs/colonists/928f37412d70a5b60b6dc9c6.webp",
+      "pack": "colonists",
+      "bytes": 26418
+    },
+    {
+      "path": "assets/packs/colonists/624dc9073684bb577b6a425b.webp",
+      "pack": "colonists",
+      "bytes": 10338
+    },
+    {
+      "path": "assets/packs/colonists/dad6a0b1ef4aecdbfacde95a.webp",
+      "pack": "colonists",
+      "bytes": 33124
+    },
+    {
+      "path": "assets/packs/colonists/363b90a8bc3f44311f73dec8.webp",
+      "pack": "colonists",
+      "bytes": 22422
+    },
+    {
+      "path": "assets/packs/colonists/466cdaff5df797df8648e6e3.webp",
+      "pack": "colonists",
+      "bytes": 27030
+    },
+    {
+      "path": "assets/packs/colonists/f70858b90935dc0499f0355d.webp",
+      "pack": "colonists",
+      "bytes": 7328
+    },
+    {
+      "path": "assets/packs/colonists/a438b3b776745a20a60c9fe1.webp",
+      "pack": "colonists",
+      "bytes": 8082
+    },
+    {
+      "path": "assets/packs/colonists/4b94ed8d4d342db81a403af2.webp",
+      "pack": "colonists",
+      "bytes": 9458
+    },
+    {
+      "path": "assets/packs/colonists/2524ae660aa175cb14239301.webp",
+      "pack": "colonists",
+      "bytes": 9898
+    },
+    {
+      "path": "assets/packs/colonists/06286980adee9f3bf7f9b972.webp",
+      "pack": "colonists",
+      "bytes": 33684
+    },
+    {
+      "path": "assets/packs/colonists/727d73938f8af3a1e571e8da.webp",
+      "pack": "colonists",
+      "bytes": 30174
+    },
+    {
+      "path": "assets/packs/colonists/a1c48637d5330270cbfe7c54.webp",
+      "pack": "colonists",
+      "bytes": 22454
+    },
+    {
+      "path": "assets/packs/colonists/5dec8cc5ddea126774b4e047.webp",
+      "pack": "colonists",
+      "bytes": 26906
+    },
+    {
+      "path": "assets/packs/colonists/2c7e4e94232a9b96a50db2ea.webp",
+      "pack": "colonists",
+      "bytes": 26352
+    },
+    {
+      "path": "assets/packs/colonists/2fdf30f65affc36c085278c5.webp",
+      "pack": "colonists",
+      "bytes": 9868
+    },
+    {
+      "path": "assets/packs/colonists/d172fe79f1ddd0951a00736a.webp",
+      "pack": "colonists",
+      "bytes": 21100
+    },
+    {
+      "path": "assets/packs/colonists/07bdc7bca77eb8dfb4644bdc.webp",
+      "pack": "colonists",
+      "bytes": 11492
+    },
+    {
+      "path": "assets/packs/colonists/f39d33ba59c1d70d13c823fe.webp",
+      "pack": "colonists",
+      "bytes": 9796
+    },
+    {
+      "path": "assets/packs/colonists/9ea2589251b50815f9236144.webp",
+      "pack": "colonists",
+      "bytes": 26090
+    },
+    {
+      "path": "assets/packs/colonists/b35c1d3af3770d3c438f6cb0.webp",
+      "pack": "colonists",
+      "bytes": 24490
+    },
+    {
+      "path": "assets/packs/colonists/bd25d0161a4ae1f0d3030ef3.webp",
+      "pack": "colonists",
+      "bytes": 24030
+    },
+    {
+      "path": "assets/packs/colonists/0500f967566e28747a7f7aac.webp",
+      "pack": "colonists",
+      "bytes": 14832
+    },
+    {
+      "path": "assets/packs/colonists/60745f6b83cc0c0cb71c73bc.webp",
+      "pack": "colonists",
+      "bytes": 11328
+    },
+    {
+      "path": "assets/packs/colonists/8f7c7c2d309a8972d7c88e7c.webp",
+      "pack": "colonists",
+      "bytes": 24842
+    },
+    {
+      "path": "assets/packs/colonists/5ee3596bb9bc26606a8aabba.webp",
+      "pack": "colonists",
+      "bytes": 13798
+    },
+    {
+      "path": "assets/packs/colonists/7d03302bd39b183a0ea024e4.webp",
+      "pack": "colonists",
+      "bytes": 11184
+    },
+    {
+      "path": "assets/packs/colonists/5cd4e86d885cbcb43e3283eb.webp",
+      "pack": "colonists",
+      "bytes": 25648
+    },
+    {
+      "path": "assets/packs/colonists/0f6945d7b5a74d70afad5f06.webp",
+      "pack": "colonists",
+      "bytes": 25498
+    },
+    {
+      "path": "assets/packs/colonists/03c4dc2b4eb3182f1ebe837d.webp",
+      "pack": "colonists",
+      "bytes": 7866
+    },
+    {
+      "path": "assets/packs/colonists/3917fed2bbf8c0d22937bc65.webp",
+      "pack": "colonists",
+      "bytes": 12862
+    },
+    {
+      "path": "assets/packs/colonists/0299212aa4b40880c7d910b7.webp",
+      "pack": "colonists",
+      "bytes": 27684
+    },
+    {
+      "path": "assets/packs/colonists/c2610f402a473af688057b7e.webp",
+      "pack": "colonists",
+      "bytes": 12388
+    },
+    {
+      "path": "assets/packs/colonists/4363112877c0203fa6774da3.webp",
+      "pack": "colonists",
+      "bytes": 21700
+    },
+    {
+      "path": "assets/packs/colonists/fc73a059455af49f3e436775.webp",
+      "pack": "colonists",
+      "bytes": 21786
+    },
+    {
+      "path": "assets/packs/colonists/6421b7a40d72e875140dd2c1.webp",
+      "pack": "colonists",
+      "bytes": 10780
+    },
+    {
+      "path": "assets/packs/colonists/cc84f8ed23e2278a07e1a606.webp",
+      "pack": "colonists",
+      "bytes": 10258
+    },
+    {
+      "path": "assets/packs/colonists/de502025215dc159e6337b95.webp",
+      "pack": "colonists",
+      "bytes": 3548
+    },
+    {
+      "path": "assets/packs/colonists/9a9ac9ae7fb37e24fbda28a9.webp",
+      "pack": "colonists",
+      "bytes": 20476
+    },
+    {
+      "path": "assets/packs/colonists/863df56f4081f5c66d443c18.webp",
+      "pack": "colonists",
+      "bytes": 27326
+    },
+    {
+      "path": "assets/packs/colonists/926bac6e75a3f54534d71049.webp",
+      "pack": "colonists",
+      "bytes": 25294
+    },
+    {
+      "path": "assets/packs/colonists/a116967204ad614f273cf1ec.webp",
+      "pack": "colonists",
+      "bytes": 26892
+    },
+    {
+      "path": "assets/packs/colonists/11041d82422251e4cb73835f.webp",
+      "pack": "colonists",
+      "bytes": 16010
+    },
+    {
+      "path": "assets/packs/colonists/c442132355f2db2df51c6b5b.webp",
+      "pack": "colonists",
+      "bytes": 10778
+    },
+    {
+      "path": "assets/packs/colonists/2a953fe7c38d027e03d6e339.webp",
+      "pack": "colonists",
+      "bytes": 22650
+    },
+    {
+      "path": "assets/packs/colonists/110078e4d2926c7d0a3f3ffd.webp",
+      "pack": "colonists",
+      "bytes": 5552
+    },
+    {
+      "path": "assets/packs/colonists/73ecff9077abedf3a33dcde1.webp",
+      "pack": "colonists",
+      "bytes": 23612
+    },
+    {
+      "path": "assets/packs/colonists/664ef6999d9248ee621cea21.webp",
+      "pack": "colonists",
+      "bytes": 15538
+    },
+    {
+      "path": "assets/packs/colonists/67c346d6e0bd4d62c2b05f2d.webp",
+      "pack": "colonists",
+      "bytes": 23934
+    },
+    {
+      "path": "assets/packs/colonists/8aa0ca64e4261d6a261bb231.webp",
+      "pack": "colonists",
+      "bytes": 25728
+    },
+    {
+      "path": "assets/packs/colonists/4253c574d8dea3efb75f1e79.webp",
+      "pack": "colonists",
+      "bytes": 9706
+    },
+    {
+      "path": "assets/packs/colonists/c28494544353c16a2c24e89b.webp",
+      "pack": "colonists",
+      "bytes": 25270
+    },
+    {
+      "path": "assets/packs/colonists/6e52b1ef93ccf1e2e9bf2184.webp",
+      "pack": "colonists",
+      "bytes": 10276
+    },
+    {
+      "path": "assets/packs/colonists/ab714ea44f3ea193d44a2cbe.webp",
+      "pack": "colonists",
+      "bytes": 28188
+    },
+    {
+      "path": "assets/packs/colonists/f8f0af703baf14e05ec5b40b.webp",
+      "pack": "colonists",
+      "bytes": 19606
+    },
+    {
+      "path": "assets/packs/colonists/7fa169af0843d14995062e1c.webp",
+      "pack": "colonists",
+      "bytes": 26112
+    },
+    {
+      "path": "assets/packs/colonists/2cb18b12686856de2a59f5eb.webp",
+      "pack": "colonists",
+      "bytes": 8346
+    },
+    {
+      "path": "assets/packs/colonists/47966eee2ef35a31a9b2e8c2.webp",
+      "pack": "colonists",
+      "bytes": 13728
+    },
+    {
+      "path": "assets/packs/colonists/0d61f1ab9f615302387638db.webp",
+      "pack": "colonists",
+      "bytes": 9608
+    },
+    {
+      "path": "assets/packs/colonists/4125313dfb5a135b5784b6a7.webp",
+      "pack": "colonists",
+      "bytes": 10392
+    },
+    {
+      "path": "assets/packs/colonists/442f42303329993c73438ce3.webp",
+      "pack": "colonists",
+      "bytes": 28550
+    },
+    {
+      "path": "assets/packs/colonists/e6279ded1fdfb36301a66547.webp",
+      "pack": "colonists",
+      "bytes": 15174
+    },
+    {
+      "path": "assets/packs/colonists/f56fcd97653952cec5a54315.webp",
+      "pack": "colonists",
+      "bytes": 29726
+    },
+    {
+      "path": "assets/packs/colonists/104959b0d34aaab7fae72e26.webp",
+      "pack": "colonists",
+      "bytes": 10032
+    },
+    {
+      "path": "assets/packs/colonists/b01d2030082de4fc8e22373b.webp",
+      "pack": "colonists",
+      "bytes": 10492
+    },
+    {
+      "path": "assets/packs/colonists/294471ac1aef415ce9bb98d6.webp",
+      "pack": "colonists",
+      "bytes": 11184
+    },
+    {
+      "path": "assets/packs/colonists/1e9b4d67eaf1ef13f8aaae94.webp",
+      "pack": "colonists",
+      "bytes": 18672
+    },
+    {
+      "path": "assets/packs/colonists/d5424fde5a96cac2d983bb3c.webp",
+      "pack": "colonists",
+      "bytes": 12980
+    },
+    {
+      "path": "assets/packs/colonists/e24b81b7fdc4ed79eb622c08.webp",
+      "pack": "colonists",
+      "bytes": 10212
+    },
+    {
+      "path": "assets/packs/colonists/4ef378cdaced02a1faf743a8.webp",
+      "pack": "colonists",
+      "bytes": 12224
+    },
+    {
+      "path": "assets/packs/colonists/fcdf36a12c58a5048d4bb356.webp",
+      "pack": "colonists",
+      "bytes": 11050
+    },
+    {
+      "path": "assets/packs/colonists/3379a74ac09f9d98517cea64.webp",
+      "pack": "colonists",
+      "bytes": 20986
+    },
+    {
+      "path": "assets/packs/colonists/e5b627c1b1dddf49fc3901e1.webp",
+      "pack": "colonists",
+      "bytes": 28898
+    },
+    {
+      "path": "assets/packs/colonists/a3a35beb13655cb22747bad9.webp",
+      "pack": "colonists",
+      "bytes": 31998
+    },
+    {
+      "path": "assets/packs/colonists/b2441f3339c9be197105f616.webp",
+      "pack": "colonists",
+      "bytes": 17858
+    },
+    {
+      "path": "assets/packs/colonists/bcda6ba9379aa3617fedb78a.webp",
+      "pack": "colonists",
+      "bytes": 23222
+    },
+    {
+      "path": "assets/packs/colonists/403df20fcb8613b25303c73e.webp",
+      "pack": "colonists",
+      "bytes": 27962
+    },
+    {
+      "path": "assets/packs/colonists/b67f032344b90b80f2067f34.webp",
+      "pack": "colonists",
+      "bytes": 29186
+    },
+    {
+      "path": "assets/packs/colonists/21e432a849106a1f92357680.webp",
+      "pack": "colonists",
+      "bytes": 14730
+    },
+    {
+      "path": "assets/packs/colonists/4056df88e7355f6be5bb534a.webp",
+      "pack": "colonists",
+      "bytes": 11034
+    },
+    {
+      "path": "assets/packs/colonists/525cd58422b0e354ca778624.webp",
+      "pack": "colonists",
+      "bytes": 10578
+    },
+    {
+      "path": "assets/packs/colonists/a16ee8fb4d5e821a255cc906.webp",
+      "pack": "colonists",
+      "bytes": 4444
+    },
+    {
+      "path": "assets/packs/colonists/85aa45765afb85e746797aa4.webp",
+      "pack": "colonists",
+      "bytes": 15764
+    },
+    {
+      "path": "assets/packs/colonists/1729a303b215943e78eade0d.webp",
+      "pack": "colonists",
+      "bytes": 27356
+    },
+    {
+      "path": "assets/packs/colonists/f1116fc0afbaeabf53642b9a.webp",
+      "pack": "colonists",
+      "bytes": 24698
+    },
+    {
+      "path": "assets/packs/colonists/4c1121322e0af69fe9b44e36.webp",
+      "pack": "colonists",
+      "bytes": 24644
+    },
+    {
+      "path": "assets/packs/colonists/7ec2d65ba9cb872864517ff0.webp",
+      "pack": "colonists",
+      "bytes": 19764
+    },
+    {
+      "path": "assets/packs/colonists/dbcc8fe678397d0e39403c68.webp",
+      "pack": "colonists",
+      "bytes": 23800
+    },
+    {
+      "path": "assets/packs/colonists/aa74aa897de3f04327a909b9.webp",
+      "pack": "colonists",
+      "bytes": 17522
+    },
+    {
+      "path": "assets/packs/colonists/9410aa721d2304772c74dd0f.webp",
+      "pack": "colonists",
+      "bytes": 13632
+    },
+    {
+      "path": "assets/packs/colonists/810c100be0680dd42888e91d.webp",
+      "pack": "colonists",
+      "bytes": 26526
+    },
+    {
+      "path": "assets/packs/colonists/328e12f944a96f8688dc2d56.webp",
+      "pack": "colonists",
+      "bytes": 10434
+    },
+    {
+      "path": "assets/packs/colonists/d5557fdd84eb23c98971bfaa.webp",
+      "pack": "colonists",
+      "bytes": 18122
+    },
+    {
+      "path": "assets/packs/colonists/e0047f0b8a068a06be23b274.webp",
+      "pack": "colonists",
+      "bytes": 13334
+    },
+    {
+      "path": "assets/packs/colonists/568646f1624ed5450e8b5421.webp",
+      "pack": "colonists",
+      "bytes": 23318
+    },
+    {
+      "path": "assets/packs/colonists/9494f0936357a0ae3c65bbb0.webp",
+      "pack": "colonists",
+      "bytes": 27812
+    },
+    {
+      "path": "assets/packs/colonists/484d824c6b64ec6155bee255.webp",
+      "pack": "colonists",
+      "bytes": 11626
+    },
+    {
+      "path": "assets/packs/colonists/42135311bf4658edd71a0d3a.webp",
+      "pack": "colonists",
+      "bytes": 26146
+    },
+    {
+      "path": "assets/packs/colonists/f5d0a3d7e80a862d30e8398b.webp",
+      "pack": "colonists",
+      "bytes": 20228
+    },
+    {
+      "path": "assets/packs/colonists/e51be9e63a510bb769d8591c.webp",
+      "pack": "colonists",
+      "bytes": 17766
+    },
+    {
+      "path": "assets/packs/colonists/6b2f8dcc9261e248b38c3514.webp",
+      "pack": "colonists",
+      "bytes": 22084
+    },
+    {
+      "path": "assets/packs/colonists/a0430b00e834647974d0f962.webp",
+      "pack": "colonists",
+      "bytes": 25048
+    },
+    {
+      "path": "assets/packs/colonists/bfd780f9315921a1bbf08de5.webp",
+      "pack": "colonists",
+      "bytes": 29258
+    },
+    {
+      "path": "assets/packs/colonists/548997d71081429b88c484fd.webp",
+      "pack": "colonists",
+      "bytes": 14214
+    },
+    {
+      "path": "assets/packs/colonists/36365e31fce0ef77873573cc.webp",
+      "pack": "colonists",
+      "bytes": 14086
+    },
+    {
+      "path": "assets/packs/colonists/ed532ffbc7b7ff4df1780621.webp",
+      "pack": "colonists",
+      "bytes": 22420
+    },
+    {
+      "path": "assets/packs/colonists/15e15527feb6c936eb30f0b1.webp",
+      "pack": "colonists",
+      "bytes": 27120
+    },
+    {
+      "path": "assets/packs/colonists/3c503cf267da3e298ee64f2a.webp",
+      "pack": "colonists",
+      "bytes": 24990
+    },
+    {
+      "path": "assets/packs/colonists/5972e0fdfe9886607ccf9517.webp",
+      "pack": "colonists",
+      "bytes": 11688
+    },
+    {
+      "path": "assets/packs/colonists/c13014308a6e86abe6ab0062.webp",
+      "pack": "colonists",
+      "bytes": 21966
+    },
+    {
+      "path": "assets/packs/colonists/ac3e03bdaffd18f0b3344012.webp",
+      "pack": "colonists",
+      "bytes": 9370
+    },
+    {
+      "path": "assets/packs/colonists/a7f6c9ede5590e0a9557e974.webp",
+      "pack": "colonists",
+      "bytes": 25574
+    },
+    {
+      "path": "assets/packs/colonists/c8c85a8b337bb500eb8856c2.webp",
+      "pack": "colonists",
+      "bytes": 26968
+    },
+    {
+      "path": "assets/packs/colonists/385ba87c3e578e42cf43cdf9.webp",
+      "pack": "colonists",
+      "bytes": 11910
+    },
+    {
+      "path": "assets/packs/colonists/848e884d04ca9454b23f26c4.webp",
+      "pack": "colonists",
+      "bytes": 12570
+    },
+    {
+      "path": "assets/packs/colonists/a08a4039566392e77876dc32.webp",
+      "pack": "colonists",
+      "bytes": 14576
+    },
+    {
+      "path": "assets/packs/colonists/1f44248a6f1d60925b84c34c.webp",
+      "pack": "colonists",
+      "bytes": 10980
+    },
+    {
+      "path": "assets/packs/colonists/cc704c53e78eb3a00dab7907.webp",
+      "pack": "colonists",
+      "bytes": 23292
+    },
+    {
+      "path": "assets/packs/colonists/a5ae6c2c0c216d8ce0b3ecb3.webp",
+      "pack": "colonists",
+      "bytes": 24350
+    },
+    {
+      "path": "assets/packs/colonists/79c2d9fa4118690c476818f0.webp",
+      "pack": "colonists",
+      "bytes": 20738
+    },
+    {
+      "path": "assets/packs/colonists/a2d1a0145ad59bafdd65f77d.webp",
+      "pack": "colonists",
+      "bytes": 13706
+    },
+    {
+      "path": "assets/packs/colonists/53d7677d32cd2e2ac8b53391.webp",
+      "pack": "colonists",
+      "bytes": 26642
+    },
+    {
+      "path": "assets/packs/colonists/90b533218f79d7e113768e9b.webp",
+      "pack": "colonists",
+      "bytes": 23538
+    },
+    {
+      "path": "assets/packs/colonists/255c723bb050202326897b05.webp",
+      "pack": "colonists",
+      "bytes": 32062
+    },
+    {
+      "path": "assets/packs/colonists/69a51e6f9e3578fbcaeff71e.webp",
+      "pack": "colonists",
+      "bytes": 17438
+    },
+    {
+      "path": "assets/packs/colonists/38b737564e6414e6eb52d401.webp",
+      "pack": "colonists",
+      "bytes": 35608
+    },
+    {
+      "path": "assets/packs/colonists/b7cacd126fb1666fe5ff46d3.webp",
+      "pack": "colonists",
+      "bytes": 12808
+    },
+    {
+      "path": "assets/packs/colonists/afdb978dbf3561fa45cfbb10.webp",
+      "pack": "colonists",
+      "bytes": 12554
+    },
+    {
+      "path": "assets/packs/colonists/4d0eebcbe59ab6f92d4066dd.webp",
+      "pack": "colonists",
+      "bytes": 26438
+    },
+    {
+      "path": "assets/packs/colonists/912f65ce59d5479a8955f4f8.webp",
+      "pack": "colonists",
+      "bytes": 14186
+    },
+    {
+      "path": "assets/packs/colonists/ca841ccd9da021e86dc33995.webp",
+      "pack": "colonists",
+      "bytes": 23334
+    },
+    {
+      "path": "assets/packs/colonists/31e1b5c0b8a754ae0cbd1063.webp",
+      "pack": "colonists",
+      "bytes": 28786
+    },
+    {
+      "path": "assets/packs/colonists/2430dea5eb04ea7e3f1ad6d0.webp",
+      "pack": "colonists",
+      "bytes": 23286
+    },
+    {
+      "path": "assets/packs/colonists/ce88fb68e613df5e0482c40f.webp",
+      "pack": "colonists",
+      "bytes": 22418
+    },
+    {
+      "path": "assets/packs/colonists/eff6155c398be94b8a8fce9a.webp",
+      "pack": "colonists",
+      "bytes": 9578
+    },
+    {
+      "path": "assets/packs/colonists/073c47667070c2302b19bc47.webp",
+      "pack": "colonists",
+      "bytes": 9828
+    },
+    {
+      "path": "assets/packs/colonists/febc5e9c8dce3bf6e4a9725d.webp",
+      "pack": "colonists",
+      "bytes": 29122
+    },
+    {
+      "path": "assets/packs/colonists/ba19659873c78828697d0df1.webp",
+      "pack": "colonists",
+      "bytes": 21858
+    },
+    {
+      "path": "assets/packs/colonists/f71e713e31d4ae62f4cae45f.webp",
+      "pack": "colonists",
+      "bytes": 22290
+    },
+    {
+      "path": "assets/packs/colonists/e2fe5e2f6d53dcf103fe2781.webp",
+      "pack": "colonists",
+      "bytes": 26008
+    },
+    {
+      "path": "assets/packs/colonists/77ed29dc854f1ceff9a8cab5.webp",
+      "pack": "colonists",
+      "bytes": 23932
+    },
+    {
+      "path": "assets/packs/colonists/48ea251e50c8a0248bad2d97.webp",
+      "pack": "colonists",
+      "bytes": 11694
+    },
+    {
+      "path": "assets/packs/colonists/cc4ffd470732f2ad4ff684d5.webp",
+      "pack": "colonists",
+      "bytes": 18272
+    },
+    {
+      "path": "assets/packs/colonists/aa5445b095f66aba46ee2a6c.webp",
+      "pack": "colonists",
+      "bytes": 14218
+    },
+    {
+      "path": "assets/packs/colonists/fe6aa57f97553574926e178f.webp",
+      "pack": "colonists",
+      "bytes": 24602
+    },
+    {
+      "path": "assets/packs/colonists/5fcd6d0dde26b2d099b4b4f8.webp",
+      "pack": "colonists",
+      "bytes": 31746
+    },
+    {
+      "path": "assets/packs/colonists/bfea44b9564efa306a66ed84.webp",
+      "pack": "colonists",
+      "bytes": 22764
+    },
+    {
+      "path": "assets/packs/colonists/2aefd62cf4859c556cfe030e.webp",
+      "pack": "colonists",
+      "bytes": 12000
+    },
+    {
+      "path": "assets/packs/colonists/bde3bdd651a448d639d1dc6c.webp",
+      "pack": "colonists",
+      "bytes": 29458
+    },
+    {
+      "path": "assets/packs/colonists/329f0c656c2851505781bff5.webp",
+      "pack": "colonists",
+      "bytes": 12574
+    },
+    {
+      "path": "assets/packs/colonists/d3c6b8566337e7a1e1a5fb2f.webp",
+      "pack": "colonists",
+      "bytes": 21330
+    },
+    {
+      "path": "assets/packs/colonists/fed55d609b6d615e2120cb6c.webp",
+      "pack": "colonists",
+      "bytes": 22740
+    },
+    {
+      "path": "assets/packs/colonists/65ca8fb5b45d6d17a417695a.webp",
+      "pack": "colonists",
+      "bytes": 27272
+    },
+    {
+      "path": "assets/packs/colonists/7ce933f94bf1693b8611d7be.webp",
+      "pack": "colonists",
+      "bytes": 27404
+    },
+    {
+      "path": "assets/packs/colonists/62d1f41249c9ab75d9e56e67.webp",
+      "pack": "colonists",
+      "bytes": 7170
+    },
+    {
+      "path": "assets/packs/colonists/a6a449d0fe0a1b8fad3f1e29.webp",
+      "pack": "colonists",
+      "bytes": 25262
+    },
+    {
+      "path": "assets/packs/colonists/2fd2dd38f44ec0134e1f7a98.webp",
+      "pack": "colonists",
+      "bytes": 21964
+    },
+    {
+      "path": "assets/packs/colonists/d3fbb6332767b5fd47554a4e.webp",
+      "pack": "colonists",
+      "bytes": 22478
+    },
+    {
+      "path": "assets/packs/colonists/e8b11757747092514cda0d34.webp",
+      "pack": "colonists",
+      "bytes": 28176
+    },
+    {
+      "path": "assets/packs/colonists/4810eeafb84809dc73d1847d.webp",
+      "pack": "colonists",
+      "bytes": 28330
+    },
+    {
+      "path": "assets/packs/colonists/1daa859daa9e03d8578e127f.webp",
+      "pack": "colonists",
+      "bytes": 10652
+    },
+    {
+      "path": "assets/packs/colonists/344d5e9480ca07ce22d7705a.webp",
+      "pack": "colonists",
+      "bytes": 24764
+    },
+    {
+      "path": "assets/packs/colonists/0e058c32c39c5877caa44ac4.webp",
+      "pack": "colonists",
+      "bytes": 11174
+    },
+    {
+      "path": "assets/packs/colonists/0d8a13c0fbf006680c6563f3.webp",
+      "pack": "colonists",
+      "bytes": 4674
+    },
+    {
+      "path": "assets/packs/colonists/b4e6cd1f4a67d2d1bb60ca70.webp",
+      "pack": "colonists",
+      "bytes": 11610
+    },
+    {
+      "path": "assets/packs/colonists/52f22e304e2212eee4ebf177.webp",
+      "pack": "colonists",
+      "bytes": 13844
+    },
+    {
+      "path": "assets/packs/colonists/40c25ac80a0c912671553dea.webp",
+      "pack": "colonists",
+      "bytes": 16968
+    },
+    {
+      "path": "assets/packs/colonists/78e6630ed4edf85e3a3765fd.webp",
+      "pack": "colonists",
+      "bytes": 24890
+    },
+    {
+      "path": "assets/packs/colonists/b800ce06d8a94d14932f0ac0.webp",
+      "pack": "colonists",
+      "bytes": 26180
+    },
+    {
+      "path": "assets/packs/colonists/5ec9c7fedefa05e581e9dff8.webp",
+      "pack": "colonists",
+      "bytes": 26792
+    },
+    {
+      "path": "assets/packs/colonists/495e0498e064c52a2ee8436b.webp",
+      "pack": "colonists",
+      "bytes": 12470
+    },
+    {
+      "path": "assets/packs/colonists/e7b4a56d438d6a23026420e0.webp",
+      "pack": "colonists",
+      "bytes": 23952
+    },
+    {
+      "path": "assets/packs/colonists/fe6dadf4579e7d2304e83220.webp",
+      "pack": "colonists",
+      "bytes": 23826
+    },
+    {
+      "path": "assets/packs/colonists/95523ade6758a0a490608740.webp",
+      "pack": "colonists",
+      "bytes": 14012
+    },
+    {
+      "path": "assets/packs/colonists/ee504b829918151ea57914bc.webp",
+      "pack": "colonists",
+      "bytes": 10506
+    },
+    {
+      "path": "assets/packs/colonists/08d5237f50b0d739a39ec9a9.webp",
+      "pack": "colonists",
+      "bytes": 21322
+    },
+    {
+      "path": "assets/packs/colonists/6efa25d940c64caa10d92829.webp",
+      "pack": "colonists",
+      "bytes": 9714
+    },
+    {
+      "path": "assets/packs/colonists/fd36d0d69d01674f0e171a93.webp",
+      "pack": "colonists",
+      "bytes": 24440
+    },
+    {
+      "path": "assets/packs/colonists/9cc0ef092f3b89d32288765a.webp",
+      "pack": "colonists",
+      "bytes": 9222
+    },
+    {
+      "path": "assets/packs/colonists/1a51190ccf171932560dd37e.webp",
+      "pack": "colonists",
+      "bytes": 24160
+    },
+    {
+      "path": "assets/packs/colonists/fea4183f9c56208cf03e5368.webp",
+      "pack": "colonists",
+      "bytes": 29012
+    },
+    {
+      "path": "assets/packs/colonists/099a1aba7c44c57838e7e285.webp",
+      "pack": "colonists",
+      "bytes": 21422
+    },
+    {
+      "path": "assets/packs/colonists/28e32398dd5d0c82c536d184.webp",
+      "pack": "colonists",
+      "bytes": 10942
+    },
+    {
+      "path": "assets/packs/colonists/9e06afb4e843a4f758c75f66.webp",
+      "pack": "colonists",
+      "bytes": 23568
+    },
+    {
+      "path": "assets/packs/colonists/f0c0bc3b5bc5c321f76a10af.webp",
+      "pack": "colonists",
+      "bytes": 12260
+    },
+    {
+      "path": "assets/packs/colonists/ef7edfa99f346cb6921268df.webp",
+      "pack": "colonists",
+      "bytes": 25612
+    },
+    {
+      "path": "assets/packs/colonists/7a0f70db5456668a7f7c0584.webp",
+      "pack": "colonists",
+      "bytes": 22270
+    }
+  ]
+}

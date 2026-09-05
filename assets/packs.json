@@ -1,0 +1,49 @@
+{
+  "version": "0.9.1.1221",
+  "auto": [
+    "core",
+    "ui"
+  ],
+  "packs": {
+    "misc": {
+      "files": 10,
+      "bytes": 2131900
+    },
+    "audio": {
+      "files": 4,
+      "bytes": 13101051
+    },
+    "events": {
+      "files": 7,
+      "bytes": 487150
+    },
+    "buildings": {
+      "files": 162,
+      "bytes": 14911115
+    },
+    "items": {
+      "files": 98,
+      "bytes": 9165415
+    },
+    "animals": {
+      "files": 18,
+      "bytes": 2947576
+    },
+    "ui": {
+      "files": 28,
+      "bytes": 3150706
+    },
+    "core": {
+      "files": 19,
+      "bytes": 947724
+    },
+    "weapons": {
+      "files": 63,
+      "bytes": 1950794
+    },
+    "colonists": {
+      "files": 393,
+      "bytes": 7730314
+    }
+  }
+}
